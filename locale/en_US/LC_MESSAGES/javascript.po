@@ -1,0 +1,860 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-03 11:18-0700\n"
+"PO-Revision-Date: 2010-11-15 12:28-0700\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: media/js/aaq.js:49
+#, fuzzy
+msgid "Installing..."
+msgstr "Uploading \"%s\"..."
+
+#: media/js/ajaxform.js:16
+msgid "An error occured."
+msgstr "An error occured."
+
+#: media/js/ajaxpreview.js:56
+msgid "There was an error generating the preview."
+msgstr "There was an error generating the preview."
+
+#: media/js/ajaxvote.js:76
+#, fuzzy
+msgid "There was an error submitting your vote."
+msgstr "There was an error generating the preview."
+
+#. L10n: short for "1 month"
+#: media/js/charts.js:159
+msgid "1m"
+msgstr "1m"
+
+#. L10n: short for "3 months"
+#: media/js/charts.js:164
+msgid "3m"
+msgstr "3m"
+
+#. L10n: short for "6 months"
+#: media/js/charts.js:169
+msgid "6m"
+msgstr "6m"
+
+#. L10n: short for "Year To Date"
+#: media/js/charts.js:173
+msgid "YTD"
+msgstr "YTD"
+
+#. L10n: short for "1 year"
+#: media/js/charts.js:178
+msgid "1y"
+msgstr "1y"
+
+#: media/js/charts.js:181
+msgid "All"
+msgstr "All"
+
+#: media/js/charts.js:310
+msgid "January"
+msgstr "January"
+
+#: media/js/charts.js:311
+msgid "February"
+msgstr "February"
+
+#: media/js/charts.js:312
+msgid "March"
+msgstr "March"
+
+#: media/js/charts.js:313
+msgid "April"
+msgstr "April"
+
+#: media/js/charts.js:314 media/js/charts.js:334
+msgid "May"
+msgstr "May"
+
+#: media/js/charts.js:315
+msgid "June"
+msgstr "June"
+
+#: media/js/charts.js:316
+msgid "July"
+msgstr "July"
+
+#: media/js/charts.js:317
+msgid "August"
+msgstr "August"
+
+#: media/js/charts.js:318
+msgid "September"
+msgstr "September"
+
+#: media/js/charts.js:319
+msgid "October"
+msgstr "October"
+
+#: media/js/charts.js:320
+msgid "November"
+msgstr "November"
+
+#: media/js/charts.js:321
+msgid "December"
+msgstr "December"
+
+#: media/js/charts.js:322
+msgid "Sunday"
+msgstr "Sunday"
+
+#: media/js/charts.js:323
+msgid "Monday"
+msgstr "Monday"
+
+#: media/js/charts.js:324
+msgid "Tuesday"
+msgstr "Tuesday"
+
+#: media/js/charts.js:325
+msgid "Wednesday"
+msgstr "Wednesday"
+
+#: media/js/charts.js:326
+msgid "Thursday"
+msgstr "Thursday"
+
+#: media/js/charts.js:327
+msgid "Friday"
+msgstr "Friday"
+
+#: media/js/charts.js:328
+msgid "Saturday"
+msgstr "Saturday"
+
+#. L10n: short for the individual months
+#: media/js/charts.js:330
+#, fuzzy
+msgid "Jan"
+msgstr "January"
+
+#: media/js/charts.js:331
+msgid "Feb"
+msgstr "Feb"
+
+#: media/js/charts.js:332
+#, fuzzy
+msgid "Mar"
+msgstr "March"
+
+#: media/js/charts.js:333
+#, fuzzy
+msgid "Apr"
+msgstr "April"
+
+#: media/js/charts.js:335
+#, fuzzy
+msgid "Jun"
+msgstr "June"
+
+#: media/js/charts.js:336
+#, fuzzy
+msgid "Jul"
+msgstr "July"
+
+#: media/js/charts.js:337
+#, fuzzy
+msgid "Aug"
+msgstr "August"
+
+#: media/js/charts.js:338
+msgid "Sep"
+msgstr "Sep"
+
+#: media/js/charts.js:339
+#, fuzzy
+msgid "Oct"
+msgstr "October"
+
+#: media/js/charts.js:340
+#, fuzzy
+msgid "Nov"
+msgstr "No"
+
+#: media/js/charts.js:341
+msgid "Dec"
+msgstr "Dec"
+
+#: media/js/charts.js:342 media/js/helpfuldashcharts.js:9 media/js/historycharts.js:8 media/js/markup.js:833
+#, fuzzy
+msgid "Loading..."
+msgstr "Uploading \"%s\"..."
+
+#: media/js/charts.js:343
+msgid "From"
+msgstr "From"
+
+#: media/js/charts.js:344
+msgid "To"
+msgstr "To"
+
+#: media/js/charts.js:345
+msgid "Zoom"
+msgstr "Zoom"
+
+#: media/js/charts.js:346
+msgid "Reset zoom"
+msgstr "Reset zoom"
+
+#: media/js/charts.js:347
+msgid "Reset zoom level 1:1"
+msgstr "Reset zoom level 1:1"
+
+#: media/js/customercare.js:138
+msgid "You replied"
+msgstr "You replied"
+
+#: media/js/customercare.js:140
+msgid "You and 1 other replied"
+msgstr "You and 1 other replied"
+
+#: media/js/diff.js:203
+#, fuzzy
+msgid "No differences found"
+msgstr "No sections found"
+
+#: media/js/editable.js:18 media/js/markup.js:322 media/js/markup.js:420 media/js/markup.js:664 media/js/markup.js:852
+msgid "Cancel"
+msgstr "Cancel"
+
+#: media/js/forums.js:40
+msgid "You are not watching this thread"
+msgstr "You are not watching this thread"
+
+#: media/js/forums.js:41
+msgid "You are watching this thread"
+msgstr "You are watching this thread"
+
+#: media/js/forums.js:63 media/js/upload.js:122
+msgid "Image Attachment"
+msgstr "Image Attachment"
+
+#: media/js/gallery.js:29
+msgid "Could not upload file. Please try again later."
+msgstr "Could not upload file. Please try again later."
+
+#: media/js/gallery.js:32
+msgid "Invalid image. Please select a valid image file."
+msgstr "Invalid image. Please select a valid image file."
+
+#: media/js/gallery.js:33
+msgid "Upload cancelled. Please select an image file."
+msgstr "Upload cancelled. Please select an image file."
+
+#: media/js/gallery.js:34
+#, fuzzy
+msgid "File deleted. Please select an image file."
+msgstr "Upload cancelled. Please select an image file."
+
+#: media/js/gallery.js:35
+msgid "Delete this image"
+msgstr "Delete this image"
+
+#: media/js/gallery.js:38
+#, fuzzy
+msgid "Invalid video. Please select a valid FLV video."
+msgstr "Invalid video. Please select a valid video file (%s)."
+
+#: media/js/gallery.js:39
+#, fuzzy
+msgid "Upload cancelled. Please select an FLV video."
+msgstr "Upload cancelled. Please select an image file."
+
+#: media/js/gallery.js:40
+#, fuzzy
+msgid "File deleted. Please select an FLV video."
+msgstr "Upload cancelled. Please select an image file."
+
+#: media/js/gallery.js:41
+#, fuzzy
+msgid "Delete FLV video"
+msgstr "Delete this video (%s)"
+
+#: media/js/gallery.js:44
+#, fuzzy
+msgid "Invalid video. Please select a valid OGV video."
+msgstr "Invalid video. Please select a valid video file (%s)."
+
+#: media/js/gallery.js:45
+#, fuzzy
+msgid "Upload cancelled. Please select an OGV video."
+msgstr "Upload cancelled. Please select an image file."
+
+#: media/js/gallery.js:46
+#, fuzzy
+msgid "File deleted. Please select an OGV video."
+msgstr "Upload cancelled. Please select an image file."
+
+#: media/js/gallery.js:47
+#, fuzzy
+msgid "Delete OGV video"
+msgstr "Delete this video (%s)"
+
+#: media/js/gallery.js:50
+#, fuzzy
+msgid "Invalid video. Please select a valid WebM video."
+msgstr "Invalid video. Please select a valid video file (%s)."
+
+#: media/js/gallery.js:51
+#, fuzzy
+msgid "Upload cancelled. Please select a WebM video."
+msgstr "Upload cancelled. Please select an image file."
+
+#: media/js/gallery.js:52
+#, fuzzy
+msgid "File deleted. Please select a WebM video."
+msgstr "Upload cancelled. Please select an image file."
+
+#: media/js/gallery.js:53
+#, fuzzy
+msgid "Delete WebM video"
+msgstr "Delete this video (%s)"
+
+#: media/js/gallery.js:279 media/js/upload.js:55
+msgid "Uploading \"%s\"..."
+msgstr "Uploading \"%s\"..."
+
+#: media/js/helpfuldashcharts.js:22
+#, fuzzy
+msgid "Error loading chart. (Are you logged in?)"
+msgstr "Error uploading image"
+
+#: media/js/helpfuldashcharts.js:39
+#, fuzzy
+msgid "Helpfulness Votes over 1 Month"
+msgstr "Helpfulness Votes"
+
+#: media/js/helpfuldashcharts.js:46
+msgid "Current Percent of Helpfulness"
+msgstr "Current Percent of Helpfulness"
+
+#: media/js/helpfuldashcharts.js:51
+msgid "Percent Change in Helpfulness"
+msgstr "Percent Change in Helpfulness"
+
+#: media/js/helpfuldashcharts.js:93
+msgid "Documents"
+msgstr "Documents"
+
+#: media/js/helpfuldashcharts.js:144 media/js/helpfuldashcharts.js:153 media/js/helpfuldashcharts.js:162
+#, fuzzy
+msgid "%s Votes"
+msgstr "Votes"
+
+#: media/js/historycharts.js:23
+msgid "No votes data"
+msgstr "No votes data"
+
+#: media/js/historycharts.js:28
+#, fuzzy
+msgid "Error loading graph"
+msgstr "Error uploading image"
+
+#: media/js/historycharts.js:38
+msgid "Votes"
+msgstr "Votes"
+
+#: media/js/historycharts.js:39 media/js/historycharts.js:55
+msgid "Percent"
+msgstr "Percent"
+
+#: media/js/historycharts.js:43
+msgid "Yes"
+msgstr "Yes"
+
+#: media/js/historycharts.js:49
+msgid "No"
+msgstr "No"
+
+#: media/js/kpi.dashboard.js:12 media/js/wiki.dashboard.js:14
+msgid "Article Votes: % Helpful"
+msgstr "Article Votes: % Helpful"
+
+#: media/js/kpi.dashboard.js:17
+msgid "Answer Votes: % Helpful"
+msgstr "Answer Votes: % Helpful"
+
+#: media/js/kpi.dashboard.js:25
+msgid "en-US KB"
+msgstr "en-US KB"
+
+#: media/js/kpi.dashboard.js:30
+msgid "non en-US KB"
+msgstr "non en-US KB"
+
+#: media/js/kpi.dashboard.js:35
+#, fuzzy
+msgid "Support Forum"
+msgstr "Support article:"
+
+#: media/js/kpi.dashboard.js:40
+#, fuzzy
+msgid "Army of Awesome"
+msgstr "Active Support Forum Contributors"
+
+#: media/js/kpi.dashboard.js:48
+msgid "CTR %"
+msgstr "CTR %"
+
+#: media/js/kpi.dashboard.js:56
+msgid "Visitors"
+msgstr "Visitors"
+
+#: media/js/kpi.dashboard.js:64
+msgid "L10n Coverage"
+msgstr "L10n Coverage"
+
+#: media/js/kpi.dashboard.js:124 media/js/kpi.dashboard.js:127
+#, fuzzy
+msgid "Questions"
+msgstr "Questions Solved"
+
+#: media/js/kpi.dashboard.js:138
+msgid "Solved"
+msgstr "Solved"
+
+#: media/js/kpi.dashboard.js:146
+#, fuzzy
+msgid "Responded in 24 hours"
+msgstr "Questions responded to within 72 hours"
+
+#: media/js/kpi.dashboard.js:154
+#, fuzzy
+msgid "Responded in 72 hours"
+msgstr "Questions responded to within 72 hours"
+
+#: media/js/markup.js:38 media/js/markup.js:81
+msgid "Bold"
+msgstr "Bold"
+
+#: media/js/markup.js:38 media/js/markup.js:81
+msgid "bold text"
+msgstr "bold text"
+
+#: media/js/markup.js:40 media/js/markup.js:83
+msgid "Italic"
+msgstr "Italic"
+
+#: media/js/markup.js:40 media/js/markup.js:83
+msgid "italic text"
+msgstr "italic text"
+
+#: media/js/markup.js:45 media/js/markup.js:89
+msgid "Numbered List"
+msgstr "Numbered List"
+
+#: media/js/markup.js:46 media/js/markup.js:90
+msgid "Numbered list item"
+msgstr "Numbered list item"
+
+#: media/js/markup.js:47 media/js/markup.js:91
+msgid "Bulleted List"
+msgstr "Bulleted List"
+
+#: media/js/markup.js:48 media/js/markup.js:92
+msgid "Bulleted list item"
+msgstr "Bulleted list item"
+
+#: media/js/markup.js:94
+msgid "Heading 1"
+msgstr "Heading 1"
+
+#: media/js/markup.js:96
+msgid "Heading 2"
+msgstr "Heading 2"
+
+#: media/js/markup.js:98
+msgid "Heading 3"
+msgstr "Heading 3"
+
+#: media/js/markup.js:275
+msgid "Show for..."
+msgstr "Show for..."
+
+#: media/js/markup.js:281
+msgid "Show content only for specific versions of Firefox or operating systems."
+msgstr "Show content only for specific versions of Firefox or operating systems."
+
+#: media/js/markup.js:313
+msgid "Add Rule"
+msgstr "Add Rule"
+
+#: media/js/markup.js:374
+msgid "Insert a link..."
+msgstr "Insert a link..."
+
+#: media/js/markup.js:378
+msgid "link text"
+msgstr "link text"
+
+#: media/js/markup.js:408
+msgid "Link text:"
+msgstr "Link text:"
+
+#: media/js/markup.js:410
+msgid "Link target:"
+msgstr "Link target:"
+
+#: media/js/markup.js:412
+msgid "Support article:"
+msgstr "Support article:"
+
+#: media/js/markup.js:414
+msgid "Enter the name of the article"
+msgstr "Enter the name of the article"
+
+#: media/js/markup.js:416
+msgid "External link:"
+msgstr "External link:"
+
+#: media/js/markup.js:418
+msgid "Enter the URL of the external link"
+msgstr "Enter the URL of the external link"
+
+#: media/js/markup.js:490
+msgid "No sections found"
+msgstr "No sections found"
+
+#: media/js/markup.js:535
+msgid "Insert Link"
+msgstr "Insert Link"
+
+#: media/js/markup.js:570
+msgid "Knowledge Base Article"
+msgstr "Knowledge Base Article"
+
+#: media/js/markup.js:617
+msgid "Insert media..."
+msgstr "Insert media..."
+
+#: media/js/markup.js:621
+msgid "media"
+msgstr "media"
+
+#: media/js/markup.js:652 media/js/markup.js:653 media/js/markup.js:654
+msgid "Search Gallery"
+msgstr "Search Gallery"
+
+#: media/js/markup.js:656
+msgid "Show:"
+msgstr "Show:"
+
+#: media/js/markup.js:657
+msgid "Images"
+msgstr "Images"
+
+#: media/js/markup.js:658
+msgid "Videos"
+msgstr "Videos"
+
+#: media/js/markup.js:659
+#, fuzzy
+msgid "Show media for:"
+msgstr "Show for..."
+
+#: media/js/markup.js:661
+msgid "Insert Media"
+msgstr "Insert Media"
+
+#: media/js/markup.js:663
+msgid "Upload Media"
+msgstr "Upload Media"
+
+#: media/js/markup.js:727
+msgid "Please select an image or video to insert."
+msgstr "Please select an image or video to insert."
+
+#: media/js/markup.js:762
+msgid "Oops, there was an error."
+msgstr "Oops, there was an error."
+
+#: media/js/markup.js:791
+#, fuzzy
+msgid "Insert a canned response..."
+msgstr "Insert a link..."
+
+#: media/js/markup.js:795
+msgid "cannedresponses"
+msgstr "cannedresponses"
+
+#: media/js/markup.js:827
+msgid "Search for common responses"
+msgstr "Search for common responses"
+
+#: media/js/markup.js:831
+msgid "Categories"
+msgstr "Categories"
+
+#: media/js/markup.js:836 media/js/markup.js:960
+#, fuzzy
+msgid "Responses"
+msgstr "Responsed"
+
+#: media/js/markup.js:837
+#, fuzzy
+msgid "Please select a category from the previous column or start a search."
+msgstr "Please select an image or video to insert."
+
+#: media/js/markup.js:841 media/js/markup.js:1092
+#, fuzzy
+msgid "Response editor"
+msgstr "Responsed"
+
+#: media/js/markup.js:842 media/js/markup.js:1093
+msgid "Switch to preview mode"
+msgstr "Switch to preview mode"
+
+#: media/js/markup.js:851
+#, fuzzy
+msgid "Insert Response"
+msgstr "Insert Link"
+
+#: media/js/markup.js:971
+#, fuzzy
+msgid "Matching responses"
+msgstr "cannedresponses"
+
+#: media/js/markup.js:1048
+#, fuzzy
+msgid "There was an error checking for canned responses."
+msgstr "There was an error checking the queue."
+
+#: media/js/markup.js:1085
+msgid "Response preview"
+msgstr "Response preview"
+
+#: media/js/markup.js:1086
+msgid "Switch to edit mode"
+msgstr "Switch to edit mode"
+
+#: media/js/markup.js:1144
+msgid "Quote previous message..."
+msgstr "Quote previous message..."
+
+#: media/js/markup.js:1149
+msgid " said"
+msgstr " said"
+
+#: media/js/messages.js:15
+msgid "Reply..."
+msgstr "Reply..."
+
+#: media/js/questions.js:198 media/js/wiki.js:382
+#, fuzzy
+msgid "There was an error."
+msgstr "There was an error :(."
+
+#: media/js/reportabuse.js:37
+#, fuzzy
+msgid "There was an error. Please try again in a moment."
+msgstr "There was an error generating the preview."
+
+#: media/js/rickshaw_utils.js:170
+msgid "Daily"
+msgstr "Daily"
+
+#: media/js/rickshaw_utils.js:171
+msgid "Weekly"
+msgstr "Weekly"
+
+#: media/js/rickshaw_utils.js:172
+msgid "Monthly"
+msgstr "Monthly"
+
+#: media/js/rickshaw_utils.js:199
+msgid "Week beginning %(year)s-%(month)s-%(date)s"
+msgstr "Week beginning %(year)s-%(month)s-%(date)s"
+
+#: media/js/rickshaw_utils.js:200
+msgid "Month beginning %(year)s-%(month)s-%(date)s"
+msgstr "Month beginning %(year)s-%(month)s-%(date)s"
+
+#: media/js/showfor.js:83
+msgid "[missing header]"
+msgstr "[missing header]"
+
+#: media/js/showfor.js:121
+msgid "Table of Contents"
+msgstr "Table of Contents"
+
+#: media/js/tags.filter.js:57
+msgid "Invalid tag entered: %s"
+msgstr "Invalid tag entered: %s"
+
+#: media/js/tags.filter.js:65
+msgid "No tags entered."
+msgstr "No tags entered."
+
+#: media/js/upload.js:4
+msgid "Error uploading image"
+msgstr "Error uploading image"
+
+#: media/js/upload.js:5
+msgid "Error deleting image"
+msgstr "Error deleting image"
+
+#: media/js/upload.js:6
+msgid "Please check you are logged in, and try again."
+msgstr "Please check you are logged in, and try again."
+
+#: media/js/users.autocomplete.js:32
+msgid "Search for a user..."
+msgstr "Search for a user..."
+
+#: media/js/users.js:21
+msgid "WARNING! Are you sure you want to deactivate this user? This cannot be undone!"
+msgstr "WARNING! Are you sure you want to deactivate this user? This cannot be undone!"
+
+#: media/js/wiki.js:266
+msgid "A document with this title already exists in this locale."
+msgstr "A document with this title already exists in this locale."
+
+#: media/js/wiki.js:271
+msgid "A document with this slug already exists in this locale."
+msgstr "A document with this slug already exists in this locale."
+
+#: media/js/wiki.js:376
+msgid "Choose revisions to compare"
+msgstr "Choose revisions to compare"
+
+#: media/js/wiki.js:522
+msgid "Toggle syntax highlighting"
+msgstr "Toggle syntax highlighting"
+
+#: media/js/wiki.js:594
+msgid "Toggle Diff"
+msgstr "Toggle Diff"
+
+#~ msgid "We're open!"
+#~ msgstr "We're open!"
+
+#~ msgid "Our volunteers are ready to help."
+#~ msgstr "Our volunteers are ready to help."
+
+#~ msgid "Helpers online: "
+#~ msgstr "Helpers online: "
+
+#~ msgid "Users waiting: "
+#~ msgstr "Users waiting: "
+
+#~ msgid "Estimated wait: "
+#~ msgstr "Estimated wait: "
+
+#~ msgid "Start your Live Chat session."
+#~ msgstr "Start your Live Chat session."
+
+#~ msgid "The queue is full."
+#~ msgstr "The queue is full."
+
+#~ msgid "Our volunteers are busy helping other users."
+#~ msgstr "Our volunteers are busy helping other users."
+
+#~ msgid "We're closed."
+#~ msgstr "We're closed."
+
+#~ msgid "Live Chat is currently closed."
+#~ msgstr "Live Chat is currently closed."
+
+#~ msgid "There was an error checking the queue."
+#~ msgstr "There was an error checking the queue."
+
+#~ msgid "You can try starting a chat session."
+#~ msgstr "You can try starting a chat session."
+
+#~ msgid "Less than 2 minutes."
+#~ msgstr "Less than 2 minutes."
+
+#~ msgid "More than 20 minutes."
+#~ msgstr "More than 20 minutes."
+
+#, fuzzy
+#~ msgid "Helpful Votes"
+#~ msgstr "Helpfulness Votes"
+
+#, fuzzy
+#~ msgid "Active Contributors"
+#~ msgstr "Active KB Contributors"
+
+#~ msgid "Search Clickthrough Rate"
+#~ msgstr "Search Clickthrough Rate"
+
+#~ msgid "Daily Unique Visitors"
+#~ msgstr "Daily Unique Visitors"
+
+#~ msgid "Query took: "
+#~ msgstr "Query took: "
+
+#~ msgid " seconds"
+#~ msgstr " seconds"
+
+#~ msgid "Helpfulness Votes"
+#~ msgstr "Helpfulness Votes"
+
+#, fuzzy
+#~ msgid "Number of Votes"
+#~ msgstr "Table of Contents"
+
+#~ msgid "%s%"
+#~ msgstr "%s%"
+
+#~ msgid "Report this post"
+#~ msgstr "Report this post"
+
+#, fuzzy
+#~ msgid "Toggle L10n"
+#~ msgstr "Toggle Diff"
+
+#, fuzzy
+#~ msgid "Search: "
+#~ msgstr "Search Gallery"
+
+#~ msgid "Type here to filter the list of shown responses"
+#~ msgstr "Type here to filter the list of shown responses"
+
+#~ msgid "Active Support Forum Contributors"
+#~ msgstr "Active Support Forum Contributors"
+
+#~ msgid "Contributors"
+#~ msgstr "Contributors"
+
+#, fuzzy
+#~ msgid "Report this Article"
+#~ msgstr "Report this post"
+
+#~ msgid "Article Link"
+#~ msgstr "Article Link"
+
+#~ msgid "External Link"
+#~ msgstr "External Link"
+
+#~ msgid "external link"
+#~ msgstr "external link"
+
+#, fuzzy
+#~ msgid "Invalid video. Please select a valid video file (%s)."
+#~ msgstr "Invalid video. Please select a valid video file (%s)."
+
+#~ msgid "Upload cancelled. Please select a video file (%s)."
+#~ msgstr "Upload cancelled. Please select a video file (%s)."
+
+#, fuzzy
+#~ msgid "Delete %s file"
+#~ msgstr "Delete this image"
+
+#, fuzzy
+#~ msgid "There was an error :(."
+#~ msgstr "There was an error :(."

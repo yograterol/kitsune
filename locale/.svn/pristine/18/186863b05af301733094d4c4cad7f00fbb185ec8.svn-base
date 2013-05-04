@@ -1,0 +1,806 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-03 11:18-0700\n"
+"PO-Revision-Date: 2012-12-03 10:29+0200\n"
+"Last-Translator: Selim <selim@sum.lu>\n"
+"Language-Team: none\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: media/js/aaq.js:49
+#, fuzzy
+msgid "Installing..."
+msgstr "Yükleniyor..."
+
+#: media/js/ajaxform.js:16
+msgid "An error occured."
+msgstr ""
+
+#: media/js/ajaxpreview.js:56
+msgid "There was an error generating the preview."
+msgstr "Önizleme oluşturulurken bir hata oluştu."
+
+#: media/js/ajaxvote.js:76
+msgid "There was an error submitting your vote."
+msgstr "Oyunuz gönderilirken bir hata oluştu."
+
+#. L10n: short for "1 month"
+#: media/js/charts.js:159
+msgid "1m"
+msgstr "1 ay"
+
+#. L10n: short for "3 months"
+#: media/js/charts.js:164
+msgid "3m"
+msgstr "3 ay"
+
+#. L10n: short for "6 months"
+#: media/js/charts.js:169
+msgid "6m"
+msgstr "6 ay"
+
+#. L10n: short for "Year To Date"
+#: media/js/charts.js:173
+msgid "YTD"
+msgstr "Yıl başından"
+
+#. L10n: short for "1 year"
+#: media/js/charts.js:178
+msgid "1y"
+msgstr "1 yıl"
+
+#: media/js/charts.js:181
+msgid "All"
+msgstr "Tümü"
+
+#: media/js/charts.js:310
+msgid "January"
+msgstr "Ocak"
+
+#: media/js/charts.js:311
+msgid "February"
+msgstr "Şubat"
+
+#: media/js/charts.js:312
+msgid "March"
+msgstr "Mart"
+
+#: media/js/charts.js:313
+msgid "April"
+msgstr "Nisan"
+
+#: media/js/charts.js:314 media/js/charts.js:334
+msgid "May"
+msgstr "Mayıs"
+
+#: media/js/charts.js:315
+msgid "June"
+msgstr "Haziran"
+
+#: media/js/charts.js:316
+msgid "July"
+msgstr "Temmuz"
+
+#: media/js/charts.js:317
+msgid "August"
+msgstr "Ağustos"
+
+#: media/js/charts.js:318
+msgid "September"
+msgstr "Eylül"
+
+#: media/js/charts.js:319
+msgid "October"
+msgstr "Ekim"
+
+#: media/js/charts.js:320
+msgid "November"
+msgstr "Kasım"
+
+#: media/js/charts.js:321
+msgid "December"
+msgstr "Aralık"
+
+#: media/js/charts.js:322
+msgid "Sunday"
+msgstr "Pazar"
+
+#: media/js/charts.js:323
+msgid "Monday"
+msgstr "Pazartesi"
+
+#: media/js/charts.js:324
+msgid "Tuesday"
+msgstr "Salı"
+
+#: media/js/charts.js:325
+msgid "Wednesday"
+msgstr "Çarşamba"
+
+#: media/js/charts.js:326
+msgid "Thursday"
+msgstr "Perşembe"
+
+#: media/js/charts.js:327
+msgid "Friday"
+msgstr "Cuma"
+
+#: media/js/charts.js:328
+msgid "Saturday"
+msgstr "Cumartesi"
+
+#. L10n: short for the individual months
+#: media/js/charts.js:330
+msgid "Jan"
+msgstr "Oca"
+
+#: media/js/charts.js:331
+msgid "Feb"
+msgstr "Şub"
+
+#: media/js/charts.js:332
+msgid "Mar"
+msgstr "Mar"
+
+#: media/js/charts.js:333
+msgid "Apr"
+msgstr "Nis"
+
+#: media/js/charts.js:335
+msgid "Jun"
+msgstr "Haz"
+
+#: media/js/charts.js:336
+msgid "Jul"
+msgstr "Tem"
+
+#: media/js/charts.js:337
+msgid "Aug"
+msgstr "Ağu"
+
+#: media/js/charts.js:338
+msgid "Sep"
+msgstr "Eyl"
+
+#: media/js/charts.js:339
+msgid "Oct"
+msgstr "Eki"
+
+#: media/js/charts.js:340
+msgid "Nov"
+msgstr "Kas"
+
+#: media/js/charts.js:341
+msgid "Dec"
+msgstr "Ara"
+
+#: media/js/charts.js:342 media/js/helpfuldashcharts.js:9 media/js/historycharts.js:8 media/js/markup.js:833
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+#: media/js/charts.js:343
+msgid "From"
+msgstr "Başlangıç"
+
+#: media/js/charts.js:344
+msgid "To"
+msgstr "Bitiş"
+
+#: media/js/charts.js:345
+msgid "Zoom"
+msgstr "Yakınlaştır"
+
+#: media/js/charts.js:346
+msgid "Reset zoom"
+msgstr "Yakınlaştırmayı sıfırla"
+
+#: media/js/charts.js:347
+msgid "Reset zoom level 1:1"
+msgstr "Yakınlaştırmayı 1:1 olarak sıfırla"
+
+#: media/js/customercare.js:138
+msgid "You replied"
+msgstr "Yanıtladınız"
+
+#: media/js/customercare.js:140
+msgid "You and 1 other replied"
+msgstr "Siz ve 1 kişi daha yanıtladınız"
+
+#: media/js/diff.js:203
+msgid "No differences found"
+msgstr "Hiç fark bulunamadı"
+
+#: media/js/editable.js:18 media/js/markup.js:322 media/js/markup.js:420 media/js/markup.js:664 media/js/markup.js:852
+msgid "Cancel"
+msgstr "Vazgeç"
+
+#: media/js/forums.js:40
+msgid "You are not watching this thread"
+msgstr "Bu konuyu izlemiyorsunuz"
+
+#: media/js/forums.js:41
+msgid "You are watching this thread"
+msgstr "Bu konuyu izliyorsunuz"
+
+#: media/js/forums.js:63 media/js/upload.js:122
+msgid "Image Attachment"
+msgstr "Resim Eki"
+
+#: media/js/gallery.js:29
+msgid "Could not upload file. Please try again later."
+msgstr "Dosya yüklenemedi. Lütfen daha sonra tekrar deneyin."
+
+#: media/js/gallery.js:32
+msgid "Invalid image. Please select a valid image file."
+msgstr "Geçersiz resim. Lütfen geçerli bir resim dosyası seçin."
+
+#: media/js/gallery.js:33
+msgid "Upload cancelled. Please select an image file."
+msgstr "Yükleme iptal edildi. Lütfen bir resim dosyası seçin."
+
+#: media/js/gallery.js:34
+msgid "File deleted. Please select an image file."
+msgstr "Dosya silindi. Lütfen bir resim dosyası seçin."
+
+#: media/js/gallery.js:35
+msgid "Delete this image"
+msgstr "Bu resmi sil"
+
+#: media/js/gallery.js:38
+msgid "Invalid video. Please select a valid FLV video."
+msgstr "Geçersiz video. Lütfen geçerli bir FLV videosu seçin."
+
+#: media/js/gallery.js:39
+msgid "Upload cancelled. Please select an FLV video."
+msgstr "Yükleme iptal edildi. Lütfen bir FLV videosu seçin."
+
+#: media/js/gallery.js:40
+msgid "File deleted. Please select an FLV video."
+msgstr "Dosya silindi. Lütfen bir FLV videosu seçin."
+
+#: media/js/gallery.js:41
+msgid "Delete FLV video"
+msgstr "FLV videosunu sil"
+
+#: media/js/gallery.js:44
+msgid "Invalid video. Please select a valid OGV video."
+msgstr "Geçersiz video. Lütfen geçerli bir OGV videosu seçin."
+
+#: media/js/gallery.js:45
+msgid "Upload cancelled. Please select an OGV video."
+msgstr "Yükleme iptal edildi. Lütfen bir OGV videosu seçin."
+
+#: media/js/gallery.js:46
+msgid "File deleted. Please select an OGV video."
+msgstr "Dosya silindi. Lütfen bir OGV videosu seçin."
+
+#: media/js/gallery.js:47
+msgid "Delete OGV video"
+msgstr "OGV videosunu sil"
+
+#: media/js/gallery.js:50
+msgid "Invalid video. Please select a valid WebM video."
+msgstr "Geçersiz video. Lütfen geçerli bir WebM videosu seçin."
+
+#: media/js/gallery.js:51
+msgid "Upload cancelled. Please select a WebM video."
+msgstr "Yükleme iptal edildi. Lütfen bir WebM videosu seçin."
+
+#: media/js/gallery.js:52
+msgid "File deleted. Please select a WebM video."
+msgstr "Dosya silindi. Lütfen bir WebM dosyası seçin."
+
+#: media/js/gallery.js:53
+msgid "Delete WebM video"
+msgstr "WebM videosunu sil"
+
+#: media/js/gallery.js:279 media/js/upload.js:55
+msgid "Uploading \"%s\"..."
+msgstr "\"%s\" yükleniyor..."
+
+#: media/js/helpfuldashcharts.js:22
+msgid "Error loading chart. (Are you logged in?)"
+msgstr "Tablo yüklenirken hata oluştu. (Oturum açtınız mı?)"
+
+#: media/js/helpfuldashcharts.js:39
+msgid "Helpfulness Votes over 1 Month"
+msgstr "Son 1 Ay İçindeki İşe Yararlık Oyları"
+
+#: media/js/helpfuldashcharts.js:46
+msgid "Current Percent of Helpfulness"
+msgstr "İşe Yararlık Yüzdesi"
+
+#: media/js/helpfuldashcharts.js:51
+msgid "Percent Change in Helpfulness"
+msgstr "İşe Yararlık Yüzdesi Değişikliği"
+
+#: media/js/helpfuldashcharts.js:93
+msgid "Documents"
+msgstr "Belgeler"
+
+#: media/js/helpfuldashcharts.js:144 media/js/helpfuldashcharts.js:153 media/js/helpfuldashcharts.js:162
+msgid "%s Votes"
+msgstr "%s Oy"
+
+#: media/js/historycharts.js:23
+msgid "No votes data"
+msgstr "Oy verisi yok"
+
+#: media/js/historycharts.js:28
+#, fuzzy
+msgid "Error loading graph"
+msgstr "Tablo yüklenirken hata oluştu"
+
+#: media/js/historycharts.js:38
+msgid "Votes"
+msgstr "Oylar"
+
+#: media/js/historycharts.js:39 media/js/historycharts.js:55
+msgid "Percent"
+msgstr "Yüzde"
+
+#: media/js/historycharts.js:43
+msgid "Yes"
+msgstr "Evet"
+
+#: media/js/historycharts.js:49
+msgid "No"
+msgstr "Hayır"
+
+#: media/js/kpi.dashboard.js:12 media/js/wiki.dashboard.js:14
+msgid "Article Votes: % Helpful"
+msgstr "Makale Oyları: % Yararlı"
+
+#: media/js/kpi.dashboard.js:17
+msgid "Answer Votes: % Helpful"
+msgstr "Cevap Oyları: % Yararlı"
+
+#: media/js/kpi.dashboard.js:25
+msgid "en-US KB"
+msgstr "en-US BB"
+
+#: media/js/kpi.dashboard.js:30
+msgid "non en-US KB"
+msgstr "en-US dışı BB"
+
+#: media/js/kpi.dashboard.js:35
+msgid "Support Forum"
+msgstr "Destek Forumu"
+
+#: media/js/kpi.dashboard.js:40
+msgid "Army of Awesome"
+msgstr "Şahaneler Ordusu"
+
+#: media/js/kpi.dashboard.js:48
+msgid "CTR %"
+msgstr ""
+
+#: media/js/kpi.dashboard.js:56
+msgid "Visitors"
+msgstr "Ziyaretçiler"
+
+#: media/js/kpi.dashboard.js:64
+msgid "L10n Coverage"
+msgstr "Yerelleştirme Kapsamı"
+
+#: media/js/kpi.dashboard.js:124 media/js/kpi.dashboard.js:127
+msgid "Questions"
+msgstr "Sorular"
+
+#: media/js/kpi.dashboard.js:138
+msgid "Solved"
+msgstr "Çözülmüş"
+
+#: media/js/kpi.dashboard.js:146
+#, fuzzy
+msgid "Responded in 24 hours"
+msgstr "72 saat içinde yanıtlanmış"
+
+#: media/js/kpi.dashboard.js:154
+msgid "Responded in 72 hours"
+msgstr "72 saat içinde yanıtlanmış"
+
+#: media/js/markup.js:38 media/js/markup.js:81
+msgid "Bold"
+msgstr "Kalın"
+
+#: media/js/markup.js:38 media/js/markup.js:81
+msgid "bold text"
+msgstr "kalın metin"
+
+#: media/js/markup.js:40 media/js/markup.js:83
+msgid "Italic"
+msgstr "İtalik"
+
+#: media/js/markup.js:40 media/js/markup.js:83
+msgid "italic text"
+msgstr "italik metin"
+
+#: media/js/markup.js:45 media/js/markup.js:89
+msgid "Numbered List"
+msgstr "Sıralı Liste"
+
+#: media/js/markup.js:46 media/js/markup.js:90
+msgid "Numbered list item"
+msgstr "Sıralı liste öğesi"
+
+#: media/js/markup.js:47 media/js/markup.js:91
+msgid "Bulleted List"
+msgstr "Madde İmli Liste"
+
+#: media/js/markup.js:48 media/js/markup.js:92
+msgid "Bulleted list item"
+msgstr "Madde imli liste öğesi"
+
+#: media/js/markup.js:94
+msgid "Heading 1"
+msgstr "Başlık 1"
+
+#: media/js/markup.js:96
+msgid "Heading 2"
+msgstr "Başlık 2"
+
+#: media/js/markup.js:98
+msgid "Heading 3"
+msgstr "Başlık 3"
+
+#: media/js/markup.js:275
+msgid "Show for..."
+msgstr "Göster..."
+
+#: media/js/markup.js:281
+msgid "Show content only for specific versions of Firefox or operating systems."
+msgstr "Yalnızca belli Firefox sürümlerine veya işletim sistemlerine yönelik içeriği göster."
+
+#: media/js/markup.js:313
+msgid "Add Rule"
+msgstr "Kural Ekle"
+
+#: media/js/markup.js:374
+msgid "Insert a link..."
+msgstr "Bağlantı ekle..."
+
+#: media/js/markup.js:378
+msgid "link text"
+msgstr "bağlantı metni"
+
+#: media/js/markup.js:408
+msgid "Link text:"
+msgstr "Bağlantı metni:"
+
+#: media/js/markup.js:410
+msgid "Link target:"
+msgstr "Bağlantı hedefi:"
+
+#: media/js/markup.js:412
+msgid "Support article:"
+msgstr "Destek makalesi:"
+
+#: media/js/markup.js:414
+msgid "Enter the name of the article"
+msgstr "Makalenin adını girin"
+
+#: media/js/markup.js:416
+msgid "External link:"
+msgstr "Dış bağlantı:"
+
+#: media/js/markup.js:418
+msgid "Enter the URL of the external link"
+msgstr "Dış bağlantının adresini girin"
+
+#: media/js/markup.js:490
+msgid "No sections found"
+msgstr "Hiçbir bölüm bulunamadı"
+
+#: media/js/markup.js:535
+msgid "Insert Link"
+msgstr "Bağlantı Ekle"
+
+#: media/js/markup.js:570
+msgid "Knowledge Base Article"
+msgstr "Bilgi Bankası Makalesi"
+
+#: media/js/markup.js:617
+msgid "Insert media..."
+msgstr "Ortam ekle..."
+
+#: media/js/markup.js:621
+msgid "media"
+msgstr "ortam"
+
+#: media/js/markup.js:652 media/js/markup.js:653 media/js/markup.js:654
+msgid "Search Gallery"
+msgstr "Galeride Ara"
+
+#: media/js/markup.js:656
+msgid "Show:"
+msgstr "Göster:"
+
+#: media/js/markup.js:657
+msgid "Images"
+msgstr "Resimler"
+
+#: media/js/markup.js:658
+msgid "Videos"
+msgstr "Videolar"
+
+#: media/js/markup.js:659
+#, fuzzy
+msgid "Show media for:"
+msgstr "Göster..."
+
+#: media/js/markup.js:661
+msgid "Insert Media"
+msgstr "Ortam Ekle"
+
+#: media/js/markup.js:663
+msgid "Upload Media"
+msgstr "Ortam Yükle"
+
+#: media/js/markup.js:727
+msgid "Please select an image or video to insert."
+msgstr "Lütfen eklenecek resim veya videoyu seçin."
+
+#: media/js/markup.js:762
+msgid "Oops, there was an error."
+msgstr "Bir hata oluştu."
+
+#: media/js/markup.js:791
+msgid "Insert a canned response..."
+msgstr "Hazır yanıt ekle..."
+
+#: media/js/markup.js:795
+msgid "cannedresponses"
+msgstr "hazıryanıtlar"
+
+#: media/js/markup.js:827
+msgid "Search for common responses"
+msgstr "Sık verilen yanıtlarda ara"
+
+#: media/js/markup.js:831
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: media/js/markup.js:836 media/js/markup.js:960
+msgid "Responses"
+msgstr "Yanıtlar"
+
+#: media/js/markup.js:837
+msgid "Please select a category from the previous column or start a search."
+msgstr "Lütfen önceki sütundan bir kategori seçin veya bir arama başlatın."
+
+#: media/js/markup.js:841 media/js/markup.js:1092
+msgid "Response editor"
+msgstr "Yanıt editörü"
+
+#: media/js/markup.js:842 media/js/markup.js:1093
+msgid "Switch to preview mode"
+msgstr "Ön izleme moduna geç"
+
+#: media/js/markup.js:851
+msgid "Insert Response"
+msgstr "Yanıt Ekle"
+
+#: media/js/markup.js:971
+msgid "Matching responses"
+msgstr "Eşleşen yanıtlar"
+
+#: media/js/markup.js:1048
+msgid "There was an error checking for canned responses."
+msgstr "Hazır yanıtlar denetlenirken bir hata oluştu."
+
+#: media/js/markup.js:1085
+msgid "Response preview"
+msgstr "Yanıt ön izlemesi"
+
+#: media/js/markup.js:1086
+msgid "Switch to edit mode"
+msgstr "Düzenleme moduna geç"
+
+#: media/js/markup.js:1144
+msgid "Quote previous message..."
+msgstr "Önceki mesajdan alıntı yap..."
+
+#: media/js/markup.js:1149
+msgid " said"
+msgstr " dedi ki"
+
+#: media/js/messages.js:15
+msgid "Reply..."
+msgstr "Yanıtla..."
+
+#: media/js/questions.js:198 media/js/wiki.js:382
+msgid "There was an error."
+msgstr "Bir hata oluştu."
+
+#: media/js/reportabuse.js:37
+#, fuzzy
+msgid "There was an error. Please try again in a moment."
+msgstr "Önizleme oluşturulurken bir hata oluştu."
+
+#: media/js/rickshaw_utils.js:170
+msgid "Daily"
+msgstr ""
+
+#: media/js/rickshaw_utils.js:171
+msgid "Weekly"
+msgstr ""
+
+#: media/js/rickshaw_utils.js:172
+msgid "Monthly"
+msgstr ""
+
+#: media/js/rickshaw_utils.js:199
+msgid "Week beginning %(year)s-%(month)s-%(date)s"
+msgstr ""
+
+#: media/js/rickshaw_utils.js:200
+msgid "Month beginning %(year)s-%(month)s-%(date)s"
+msgstr ""
+
+#: media/js/showfor.js:83
+msgid "[missing header]"
+msgstr "[başlık yok]"
+
+#: media/js/showfor.js:121
+msgid "Table of Contents"
+msgstr "İçindekiler"
+
+#: media/js/tags.filter.js:57
+msgid "Invalid tag entered: %s"
+msgstr "Geçersiz etiket girildi: %s"
+
+#: media/js/tags.filter.js:65
+msgid "No tags entered."
+msgstr "Etiket girilmedi."
+
+#: media/js/upload.js:4
+msgid "Error uploading image"
+msgstr "Resim yüklemede hata oluştu"
+
+#: media/js/upload.js:5
+msgid "Error deleting image"
+msgstr "Resim silmede hata oluştu"
+
+#: media/js/upload.js:6
+msgid "Please check you are logged in, and try again."
+msgstr "Lütfen oturum açtığınızdan emin olun ve tekrar deneyin."
+
+#: media/js/users.autocomplete.js:32
+msgid "Search for a user..."
+msgstr "Kullanıcı ara..."
+
+#: media/js/users.js:21
+msgid "WARNING! Are you sure you want to deactivate this user? This cannot be undone!"
+msgstr ""
+
+#: media/js/wiki.js:266
+msgid "A document with this title already exists in this locale."
+msgstr "Bu başlığa sahip bir belge bu dilde zaten mevcut."
+
+#: media/js/wiki.js:271
+msgid "A document with this slug already exists in this locale."
+msgstr "Bu kısa isme sahip bir belge bu dilde zaten mevcut."
+
+#: media/js/wiki.js:376
+msgid "Choose revisions to compare"
+msgstr "Karşılaştırılacak revizyonları seçin"
+
+#: media/js/wiki.js:522
+msgid "Toggle syntax highlighting"
+msgstr "Söz dizimi işaretlemeyi aç/kapat"
+
+#: media/js/wiki.js:594
+msgid "Toggle Diff"
+msgstr "Diff'i Aç/Kapat"
+
+#~ msgid "We're open!"
+#~ msgstr "Açığız!"
+
+#~ msgid "Our volunteers are ready to help."
+#~ msgstr "Gönüllülerimiz yardıma hazır."
+
+#~ msgid "Helpers online: "
+#~ msgstr "Çevrimiçi yardımseverler: "
+
+#~ msgid "Users waiting: "
+#~ msgstr "Bekleyen kullanıcılar: "
+
+#~ msgid "Estimated wait: "
+#~ msgstr "Tahminî bekleme: "
+
+#~ msgid "Start your Live Chat session."
+#~ msgstr "Canlı Sohbet oturumunuzu başlatın."
+
+#~ msgid "The queue is full."
+#~ msgstr "Kuyruk dolu."
+
+#~ msgid "Our volunteers are busy helping other users."
+#~ msgstr "Gönüllülerimiz şu anda başka kullanıcılara yardım etmekle meşgul."
+
+#~ msgid "We're closed."
+#~ msgstr "Kapalıyız."
+
+#~ msgid "Live Chat is currently closed."
+#~ msgstr "Canlı Sohbet şu anda kapalı."
+
+#~ msgid "There was an error checking the queue."
+#~ msgstr "Kuyruğun denetimi sırasında bir hata oluştu."
+
+#~ msgid "You can try starting a chat session."
+#~ msgstr "Sohbet oturumu başlatmayı deneyebilirsiniz."
+
+#~ msgid "Less than 2 minutes."
+#~ msgstr "2 dakikadan az."
+
+#~ msgid "More than 20 minutes."
+#~ msgstr "20 dakikadan fazla."
+
+#~ msgid "Helpful Votes"
+#~ msgstr "İşe Yararlık Oyları"
+
+#~ msgid "Active Contributors"
+#~ msgstr "Aktif Katkıda Bulunanlar"
+
+#~ msgid "Search Clickthrough Rate"
+#~ msgstr "Arama Tıklama Oranı"
+
+#~ msgid "Daily Unique Visitors"
+#~ msgstr "Günlük Tekil Ziyaretçi"
+
+#~ msgid "Query took: "
+#~ msgstr "Sorgu süresi: "
+
+#~ msgid " seconds"
+#~ msgstr " saniye"
+
+#~ msgid "Helpfulness Votes"
+#~ msgstr "İşe Yararlık Oyları"
+
+#~ msgid "Number of Votes"
+#~ msgstr "Oy Sayısı"
+
+#~ msgid "%s%"
+#~ msgstr "%s%"
+
+#~ msgid "Report this post"
+#~ msgstr "Bu mesajı rapor et"
+
+#~ msgid "Toggle L10n"
+#~ msgstr "Yerelleştirmeyi Aç/Kapat"
+
+#~ msgid "Search: "
+#~ msgstr "Ara: "
+
+#, fuzzy
+#~ msgid "Report this Article"
+#~ msgstr "Bu mesajı rapor et"
+
+#~ msgid "Article Link"
+#~ msgstr "Makale Bağlantısı"
+
+#~ msgid "External Link"
+#~ msgstr "Harici Bağlantı"
+
+#~ msgid "external link"
+#~ msgstr "harici bağlantı"
+
+#, fuzzy
+#~ msgid "Invalid video. Please select a valid video file (%s)."
+#~ msgstr "Geçersiz video. Lütfen geçerli bir video dosyası (%s) seçin."
+
+#~ msgid "Upload cancelled. Please select a video file (%s)."
+#~ msgstr "Yükleme iptal edildi. Lütfen bir video dosyası (%s) seçin."
+
+#~ msgid "Delete %s file"
+#~ msgstr "%s dosyasını sil"
+
+#, fuzzy
+#~ msgid "There was an error :(."
+#~ msgstr "Bir hata oluştu :(."

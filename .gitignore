@@ -11,7 +11,6 @@ build.py
 media/uploads
 node_modules
 tmp
-locale
 docs/_build
 highstock.src.js
 /static

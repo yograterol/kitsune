@@ -1,0 +1,807 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-03 11:18-0700\n"
+"PO-Revision-Date: 2013-01-31 16:24+0200\n"
+"Last-Translator: Romi <romihardiyanto@gmail.com>\n"
+"Language-Team: none\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: media/js/aaq.js:49
+msgid "Installing..."
+msgstr "Menginstal..."
+
+#: media/js/ajaxform.js:16
+msgid "An error occured."
+msgstr "Galat terjadi."
+
+#: media/js/ajaxpreview.js:56
+msgid "There was an error generating the preview."
+msgstr "Galat terjadi saat membuat pratinjau."
+
+#: media/js/ajaxvote.js:76
+msgid "There was an error submitting your vote."
+msgstr "Galat terjadi saat mengirimkan suara Anda."
+
+#. L10n: short for "1 month"
+#: media/js/charts.js:159
+msgid "1m"
+msgstr "1b"
+
+#. L10n: short for "3 months"
+#: media/js/charts.js:164
+msgid "3m"
+msgstr "3b"
+
+#. L10n: short for "6 months"
+#: media/js/charts.js:169
+msgid "6m"
+msgstr "6b"
+
+#. L10n: short for "Year To Date"
+#: media/js/charts.js:173
+msgid "YTD"
+msgstr "Sejak Awal Tahun"
+
+#. L10n: short for "1 year"
+#: media/js/charts.js:178
+msgid "1y"
+msgstr "1t"
+
+#: media/js/charts.js:181
+msgid "All"
+msgstr "Semua"
+
+#: media/js/charts.js:310
+msgid "January"
+msgstr "Januari"
+
+#: media/js/charts.js:311
+msgid "February"
+msgstr "Februari"
+
+#: media/js/charts.js:312
+msgid "March"
+msgstr "Maret"
+
+#: media/js/charts.js:313
+msgid "April"
+msgstr "April"
+
+#: media/js/charts.js:314 media/js/charts.js:334
+msgid "May"
+msgstr "Mei"
+
+#: media/js/charts.js:315
+msgid "June"
+msgstr "Juni"
+
+#: media/js/charts.js:316
+msgid "July"
+msgstr "Juli"
+
+#: media/js/charts.js:317
+msgid "August"
+msgstr "Agustus"
+
+#: media/js/charts.js:318
+msgid "September"
+msgstr "September"
+
+#: media/js/charts.js:319
+msgid "October"
+msgstr "Oktober"
+
+#: media/js/charts.js:320
+msgid "November"
+msgstr "November"
+
+#: media/js/charts.js:321
+msgid "December"
+msgstr "Desember"
+
+#: media/js/charts.js:322
+msgid "Sunday"
+msgstr "Minggu"
+
+#: media/js/charts.js:323
+msgid "Monday"
+msgstr "Senin"
+
+#: media/js/charts.js:324
+msgid "Tuesday"
+msgstr "Selasa"
+
+#: media/js/charts.js:325
+msgid "Wednesday"
+msgstr "Rabu"
+
+#: media/js/charts.js:326
+msgid "Thursday"
+msgstr "Kamis"
+
+#: media/js/charts.js:327
+msgid "Friday"
+msgstr "Jumat"
+
+#: media/js/charts.js:328
+msgid "Saturday"
+msgstr "Sabtu"
+
+#. L10n: short for the individual months
+#: media/js/charts.js:330
+msgid "Jan"
+msgstr "Jan"
+
+#: media/js/charts.js:331
+msgid "Feb"
+msgstr "Feb"
+
+#: media/js/charts.js:332
+msgid "Mar"
+msgstr "Mar"
+
+#: media/js/charts.js:333
+msgid "Apr"
+msgstr "Apr"
+
+#: media/js/charts.js:335
+msgid "Jun"
+msgstr "Jun"
+
+#: media/js/charts.js:336
+msgid "Jul"
+msgstr "Jul"
+
+#: media/js/charts.js:337
+msgid "Aug"
+msgstr "Agu"
+
+#: media/js/charts.js:338
+msgid "Sep"
+msgstr "Sep"
+
+#: media/js/charts.js:339
+msgid "Oct"
+msgstr "Okt"
+
+#: media/js/charts.js:340
+msgid "Nov"
+msgstr "Nov"
+
+#: media/js/charts.js:341
+msgid "Dec"
+msgstr "Des"
+
+#: media/js/charts.js:342 media/js/helpfuldashcharts.js:9 media/js/historycharts.js:8 media/js/markup.js:833
+msgid "Loading..."
+msgstr "Mengunggah..."
+
+#: media/js/charts.js:343
+msgid "From"
+msgstr "Dari"
+
+#: media/js/charts.js:344
+msgid "To"
+msgstr "Hingga"
+
+#: media/js/charts.js:345
+msgid "Zoom"
+msgstr "Perbesaran"
+
+#: media/js/charts.js:346
+msgid "Reset zoom"
+msgstr "Setel ulang perbesaran"
+
+#: media/js/charts.js:347
+msgid "Reset zoom level 1:1"
+msgstr "Setel ulang ke perbesaran 1:1"
+
+#: media/js/customercare.js:138
+msgid "You replied"
+msgstr "Anda telah menjawab"
+
+#: media/js/customercare.js:140
+msgid "You and 1 other replied"
+msgstr "Anda dan 1 orang lainnya telah menjawab"
+
+#: media/js/diff.js:203
+msgid "No differences found"
+msgstr "Tidak ada perbedaan ditemukan"
+
+#: media/js/editable.js:18 media/js/markup.js:322 media/js/markup.js:420 media/js/markup.js:664 media/js/markup.js:852
+msgid "Cancel"
+msgstr "Batalkan"
+
+#: media/js/forums.js:40
+msgid "You are not watching this thread"
+msgstr "Anda sedang tidak memantau utas ini"
+
+#: media/js/forums.js:41
+msgid "You are watching this thread"
+msgstr "Anda sedang memantau utas ini"
+
+#: media/js/forums.js:63 media/js/upload.js:122
+msgid "Image Attachment"
+msgstr "Lampiran Gambar"
+
+#: media/js/gallery.js:29
+msgid "Could not upload file. Please try again later."
+msgstr "Tidak dapat mengunggah berkas. Coba lagi nanti."
+
+#: media/js/gallery.js:32
+msgid "Invalid image. Please select a valid image file."
+msgstr "Gambar tidak valid. Pilih berkas gambar yang valid."
+
+#: media/js/gallery.js:33
+msgid "Upload cancelled. Please select an image file."
+msgstr "Unggahan dibatalkan. Pilih berkas gambar."
+
+#: media/js/gallery.js:34
+msgid "File deleted. Please select an image file."
+msgstr "Berkas dihapus. Pilih berkas gambar."
+
+#: media/js/gallery.js:35
+msgid "Delete this image"
+msgstr "Hapus gambar ini"
+
+#: media/js/gallery.js:38
+msgid "Invalid video. Please select a valid FLV video."
+msgstr "Video tidak valid. Pilih berkas video FLV yang valid."
+
+#: media/js/gallery.js:39
+msgid "Upload cancelled. Please select an FLV video."
+msgstr "Unggahan dibatalkan. Pilih berkas video FLV."
+
+#: media/js/gallery.js:40
+msgid "File deleted. Please select an FLV video."
+msgstr "Berkas dihapus. Pilih berkas video FLV."
+
+#: media/js/gallery.js:41
+msgid "Delete FLV video"
+msgstr "Hapus berkas FLV"
+
+#: media/js/gallery.js:44
+msgid "Invalid video. Please select a valid OGV video."
+msgstr "Video tidak valid. Pilih berkas video OGV yang valid."
+
+#: media/js/gallery.js:45
+msgid "Upload cancelled. Please select an OGV video."
+msgstr "Unggahan dibatalkan. Pilih berkas video OGV."
+
+#: media/js/gallery.js:46
+msgid "File deleted. Please select an OGV video."
+msgstr "Berkas dihapus. Pilih berkas video OGV."
+
+#: media/js/gallery.js:47
+msgid "Delete OGV video"
+msgstr "Hapus video OGV"
+
+#: media/js/gallery.js:50
+msgid "Invalid video. Please select a valid WebM video."
+msgstr "Video tidak valid. Pilih berkas video WebM yang valid."
+
+#: media/js/gallery.js:51
+msgid "Upload cancelled. Please select a WebM video."
+msgstr "Unggahan dibatalkan. Pilih berkas video WebM."
+
+#: media/js/gallery.js:52
+msgid "File deleted. Please select a WebM video."
+msgstr "Berkas dihapus. Pilih berkas video WebM."
+
+#: media/js/gallery.js:53
+msgid "Delete WebM video"
+msgstr "Hapus video WebM"
+
+#: media/js/gallery.js:279 media/js/upload.js:55
+msgid "Uploading \"%s\"..."
+msgstr "Mengunggah \"%s\"..."
+
+#: media/js/helpfuldashcharts.js:22
+msgid "Error loading chart. (Are you logged in?)"
+msgstr "Galat saat memuat bagan. (Sudah masuk?)"
+
+#: media/js/helpfuldashcharts.js:39
+msgid "Helpfulness Votes over 1 Month"
+msgstr "Suara Membantu dalam 1 Bulan"
+
+#: media/js/helpfuldashcharts.js:46
+msgid "Current Percent of Helpfulness"
+msgstr "Persentase Keterbantuan Saat Ini"
+
+#: media/js/helpfuldashcharts.js:51
+msgid "Percent Change in Helpfulness"
+msgstr "Perubahan Persentase Keterbantuan"
+
+#: media/js/helpfuldashcharts.js:93
+msgid "Documents"
+msgstr "Dokumen"
+
+#: media/js/helpfuldashcharts.js:144 media/js/helpfuldashcharts.js:153 media/js/helpfuldashcharts.js:162
+msgid "%s Votes"
+msgstr "%s Suara"
+
+#: media/js/historycharts.js:23
+msgid "No votes data"
+msgstr "Tidak ada data suara"
+
+#: media/js/historycharts.js:28
+#, fuzzy
+msgid "Error loading graph"
+msgstr "Galat saat memuat bagan"
+
+#: media/js/historycharts.js:38
+#, fuzzy
+msgid "Votes"
+msgstr "%s Suara"
+
+#: media/js/historycharts.js:39 media/js/historycharts.js:55
+msgid "Percent"
+msgstr "Persen"
+
+#: media/js/historycharts.js:43
+msgid "Yes"
+msgstr "Ya"
+
+#: media/js/historycharts.js:49
+msgid "No"
+msgstr "Tidak"
+
+#: media/js/kpi.dashboard.js:12 media/js/wiki.dashboard.js:14
+msgid "Article Votes: % Helpful"
+msgstr "Suara Artikel: % Membantu"
+
+#: media/js/kpi.dashboard.js:17
+msgid "Answer Votes: % Helpful"
+msgstr "Suara Jawaban: % Membantu"
+
+#: media/js/kpi.dashboard.js:25
+msgid "en-US KB"
+msgstr "PP en-US"
+
+#: media/js/kpi.dashboard.js:30
+msgid "non en-US KB"
+msgstr "PP non-en-US"
+
+#: media/js/kpi.dashboard.js:35
+msgid "Support Forum"
+msgstr "Forum Dukungan"
+
+#: media/js/kpi.dashboard.js:40
+msgid "Army of Awesome"
+msgstr "Sukarelawan Keren"
+
+#: media/js/kpi.dashboard.js:48
+msgid "CTR %"
+msgstr ""
+
+#: media/js/kpi.dashboard.js:56
+msgid "Visitors"
+msgstr "Pengunjung"
+
+#: media/js/kpi.dashboard.js:64
+msgid "L10n Coverage"
+msgstr "Cakupan L10n"
+
+#: media/js/kpi.dashboard.js:124 media/js/kpi.dashboard.js:127
+msgid "Questions"
+msgstr "Pertanyaan"
+
+#: media/js/kpi.dashboard.js:138
+msgid "Solved"
+msgstr "Teratasi"
+
+#: media/js/kpi.dashboard.js:146
+#, fuzzy
+msgid "Responded in 24 hours"
+msgstr "Dibalas dalam waktu 72 jam"
+
+#: media/js/kpi.dashboard.js:154
+msgid "Responded in 72 hours"
+msgstr "Dibalas dalam waktu 72 jam"
+
+#: media/js/markup.js:38 media/js/markup.js:81
+msgid "Bold"
+msgstr "Tebal"
+
+#: media/js/markup.js:38 media/js/markup.js:81
+msgid "bold text"
+msgstr "teks tebal"
+
+#: media/js/markup.js:40 media/js/markup.js:83
+msgid "Italic"
+msgstr "Miring"
+
+#: media/js/markup.js:40 media/js/markup.js:83
+msgid "italic text"
+msgstr "teks miring"
+
+#: media/js/markup.js:45 media/js/markup.js:89
+msgid "Numbered List"
+msgstr "Daftar Bernomor"
+
+#: media/js/markup.js:46 media/js/markup.js:90
+msgid "Numbered list item"
+msgstr "Item daftar bernomor"
+
+#: media/js/markup.js:47 media/js/markup.js:91
+msgid "Bulleted List"
+msgstr "Daftar Berbutir"
+
+#: media/js/markup.js:48 media/js/markup.js:92
+msgid "Bulleted list item"
+msgstr "Item daftar berbutir"
+
+#: media/js/markup.js:94
+msgid "Heading 1"
+msgstr "Tajuk 1"
+
+#: media/js/markup.js:96
+msgid "Heading 2"
+msgstr "Tajuk 2"
+
+#: media/js/markup.js:98
+msgid "Heading 3"
+msgstr "Tajuk 3"
+
+#: media/js/markup.js:275
+msgid "Show for..."
+msgstr "Tampilkan untuk..."
+
+#: media/js/markup.js:281
+msgid "Show content only for specific versions of Firefox or operating systems."
+msgstr "Tampilkan isi yang sesuai untuk versi Firefox atau sistem operasi tertentu."
+
+#: media/js/markup.js:313
+msgid "Add Rule"
+msgstr "Tambahkan Aturan"
+
+#: media/js/markup.js:374
+msgid "Insert a link..."
+msgstr "Sisipkan tautan..."
+
+#: media/js/markup.js:378
+msgid "link text"
+msgstr "teks tautan"
+
+#: media/js/markup.js:408
+msgid "Link text:"
+msgstr "Teks tautan:"
+
+#: media/js/markup.js:410
+msgid "Link target:"
+msgstr "Target tautan:"
+
+#: media/js/markup.js:412
+msgid "Support article:"
+msgstr "Artikel dukungan:"
+
+#: media/js/markup.js:414
+msgid "Enter the name of the article"
+msgstr "Masukkan nama artikel"
+
+#: media/js/markup.js:416
+msgid "External link:"
+msgstr "Tautan eksternal:"
+
+#: media/js/markup.js:418
+msgid "Enter the URL of the external link"
+msgstr "Masukkan URL tautan eksternal"
+
+#: media/js/markup.js:490
+msgid "No sections found"
+msgstr "Tidak ada bagian ditemukan"
+
+#: media/js/markup.js:535
+msgid "Insert Link"
+msgstr "Sisipkan Tautan"
+
+#: media/js/markup.js:570
+msgid "Knowledge Base Article"
+msgstr "Artikel Pundi Pengetahuan"
+
+#: media/js/markup.js:617
+msgid "Insert media..."
+msgstr "Sisipkan media..."
+
+#: media/js/markup.js:621
+msgid "media"
+msgstr "media"
+
+#: media/js/markup.js:652 media/js/markup.js:653 media/js/markup.js:654
+msgid "Search Gallery"
+msgstr "Cari Galeri"
+
+#: media/js/markup.js:656
+msgid "Show:"
+msgstr "Tampilkan:"
+
+#: media/js/markup.js:657
+msgid "Images"
+msgstr "Gambar"
+
+#: media/js/markup.js:658
+msgid "Videos"
+msgstr "Video"
+
+#: media/js/markup.js:659
+#, fuzzy
+msgid "Show media for:"
+msgstr "Tampilkan untuk..."
+
+#: media/js/markup.js:661
+msgid "Insert Media"
+msgstr "Sisipkan Media"
+
+#: media/js/markup.js:663
+msgid "Upload Media"
+msgstr "Unggah Media"
+
+#: media/js/markup.js:727
+msgid "Please select an image or video to insert."
+msgstr "Pilih gambar atau video untuk disisipkan."
+
+#: media/js/markup.js:762
+msgid "Oops, there was an error."
+msgstr "Ups, galat terjadi."
+
+#: media/js/markup.js:791
+msgid "Insert a canned response..."
+msgstr "Sisipkan templat balasan..."
+
+#: media/js/markup.js:795
+msgid "cannedresponses"
+msgstr "cannedresponses"
+
+#: media/js/markup.js:827
+msgid "Search for common responses"
+msgstr "Cari jawaban yang umum"
+
+#: media/js/markup.js:831
+msgid "Categories"
+msgstr "Kategori"
+
+#: media/js/markup.js:836 media/js/markup.js:960
+msgid "Responses"
+msgstr "Balasan"
+
+#: media/js/markup.js:837
+msgid "Please select a category from the previous column or start a search."
+msgstr "Pilih kategori dari kolom sebelumnya atau mulai pencarian."
+
+#: media/js/markup.js:841 media/js/markup.js:1092
+msgid "Response editor"
+msgstr "Editor balasan"
+
+#: media/js/markup.js:842 media/js/markup.js:1093
+msgid "Switch to preview mode"
+msgstr "Pindah ke mode pratinjau"
+
+#: media/js/markup.js:851
+msgid "Insert Response"
+msgstr "Sisipkan Balasan"
+
+#: media/js/markup.js:971
+msgid "Matching responses"
+msgstr "Balasan yang cocok"
+
+#: media/js/markup.js:1048
+msgid "There was an error checking for canned responses."
+msgstr "Galat terjadi saat memeriksa templat balasan."
+
+#: media/js/markup.js:1085
+msgid "Response preview"
+msgstr "Pratinjau balasan"
+
+#: media/js/markup.js:1086
+msgid "Switch to edit mode"
+msgstr "Pindah ke mode edit"
+
+#: media/js/markup.js:1144
+msgid "Quote previous message..."
+msgstr "Kutip pesan sebelumnya..."
+
+#: media/js/markup.js:1149
+msgid " said"
+msgstr " menulis"
+
+#: media/js/messages.js:15
+msgid "Reply..."
+msgstr "Balas..."
+
+#: media/js/questions.js:198 media/js/wiki.js:382
+msgid "There was an error."
+msgstr "Ada masalah nih, galat lagi :(."
+
+#: media/js/reportabuse.js:37
+msgid "There was an error. Please try again in a moment."
+msgstr "Galat terjadi. Coba ulang beberapa saat lagi."
+
+#: media/js/rickshaw_utils.js:170
+msgid "Daily"
+msgstr ""
+
+#: media/js/rickshaw_utils.js:171
+msgid "Weekly"
+msgstr ""
+
+#: media/js/rickshaw_utils.js:172
+msgid "Monthly"
+msgstr ""
+
+#: media/js/rickshaw_utils.js:199
+msgid "Week beginning %(year)s-%(month)s-%(date)s"
+msgstr ""
+
+#: media/js/rickshaw_utils.js:200
+msgid "Month beginning %(year)s-%(month)s-%(date)s"
+msgstr ""
+
+#: media/js/showfor.js:83
+msgid "[missing header]"
+msgstr "[tajuk tidak ada]"
+
+#: media/js/showfor.js:121
+msgid "Table of Contents"
+msgstr "Daftar Isi"
+
+#: media/js/tags.filter.js:57
+msgid "Invalid tag entered: %s"
+msgstr "Tag yang tidak valid dimasukkan: %s"
+
+#: media/js/tags.filter.js:65
+msgid "No tags entered."
+msgstr "Tidak ada tag dimasukkan."
+
+#: media/js/upload.js:4
+msgid "Error uploading image"
+msgstr "Galat saat mengunggah gambar"
+
+#: media/js/upload.js:5
+msgid "Error deleting image"
+msgstr "Galat saat menghapus gambar"
+
+#: media/js/upload.js:6
+msgid "Please check you are logged in, and try again."
+msgstr "Periksa sekali lagi apakah Anda sudah masuk, kemudian coba lagi."
+
+#: media/js/users.autocomplete.js:32
+msgid "Search for a user..."
+msgstr "Cari pengguna..."
+
+#: media/js/users.js:21
+msgid "WARNING! Are you sure you want to deactivate this user? This cannot be undone!"
+msgstr ""
+
+#: media/js/wiki.js:266
+msgid "A document with this title already exists in this locale."
+msgstr "Dokumen dengan judul yang sama telah ada untuk pelokalan ini."
+
+#: media/js/wiki.js:271
+msgid "A document with this slug already exists in this locale."
+msgstr "Dokumen dengan slug yang sama telah ada untuk pelokalan ini."
+
+#: media/js/wiki.js:376
+msgid "Choose revisions to compare"
+msgstr "Pilih revisi untuk dibandingkan"
+
+#: media/js/wiki.js:522
+msgid "Toggle syntax highlighting"
+msgstr "Aktifkan/Nonaktifkan penyorotan sintaks"
+
+#: media/js/wiki.js:594
+msgid "Toggle Diff"
+msgstr "Aktifkan/Nonaktifkan Perbedaan"
+
+#~ msgid "We're open!"
+#~ msgstr "Kami buka!"
+
+#~ msgid "Our volunteers are ready to help."
+#~ msgstr "Sukarelawan kami siap membantu."
+
+#~ msgid "Helpers online: "
+#~ msgstr "Sukarelawan pembantu daring: "
+
+#~ msgid "Users waiting: "
+#~ msgstr "Pengguna antre: "
+
+#~ msgid "Estimated wait: "
+#~ msgstr "Perkiraan waktu tunggu: "
+
+#~ msgid "Start your Live Chat session."
+#~ msgstr "Mulai sesi Obrolan Langsung."
+
+#~ msgid "The queue is full."
+#~ msgstr "Antrean penuh."
+
+#~ msgid "Our volunteers are busy helping other users."
+#~ msgstr "Sukarelawan kami sedang sibuk membantu pengguna lainnya."
+
+#~ msgid "We're closed."
+#~ msgstr "Maaf, kami sedang tutup."
+
+#~ msgid "Live Chat is currently closed."
+#~ msgstr "Obrolan Langsung sedang tutup."
+
+#~ msgid "There was an error checking the queue."
+#~ msgstr "Galat terjadi saat memeriksa antrean."
+
+#~ msgid "You can try starting a chat session."
+#~ msgstr "Anda dapat mencoba memulai sesi ngobrol."
+
+#~ msgid "Less than 2 minutes."
+#~ msgstr "Kurang dari 2 menit."
+
+#~ msgid "More than 20 minutes."
+#~ msgstr "Lebih dari 20 menit."
+
+#~ msgid "Helpful Votes"
+#~ msgstr "Suara yang Membantu"
+
+#~ msgid "Active Contributors"
+#~ msgstr "Kontributor Aktif"
+
+#~ msgid "Search Clickthrough Rate"
+#~ msgstr "Rasio Klik-tayang Pencarian"
+
+#~ msgid "Daily Unique Visitors"
+#~ msgstr "Kunjungan Unik Harian"
+
+#~ msgid "Query took: "
+#~ msgstr "Kueri membutuhkan: "
+
+#~ msgid " seconds"
+#~ msgstr " detik"
+
+#~ msgid "Helpfulness Votes"
+#~ msgstr "Suara Membantu"
+
+#~ msgid "Number of Votes"
+#~ msgstr "Jumlah Suara"
+
+#~ msgid "%s%"
+#~ msgstr "%s%"
+
+#~ msgid "Report this post"
+#~ msgstr "Laporkan kiriman ini"
+
+#~ msgid "Toggle L10n"
+#~ msgstr "Aktifkan/Nonaktifkan L10n"
+
+#, fuzzy
+#~ msgid "Search: "
+#~ msgstr "Cari Galeri"
+
+#, fuzzy
+#~ msgid "Report this Article"
+#~ msgstr "Artikel dukungan:"
+
+#~ msgid "Article Link"
+#~ msgstr "Tautan Artikel"
+
+#~ msgid "External Link"
+#~ msgstr "Tautan Eksternal"
+
+#~ msgid "external link"
+#~ msgstr "tautan eksternal"
+
+#, fuzzy
+#~ msgid "Invalid video. Please select a valid video file (%s)."
+#~ msgstr "Video tidak valid. Pilih berkas video yang valid (%s)."
+
+#~ msgid "Upload cancelled. Please select a video file (%s)."
+#~ msgstr "Unggahan dibatalkan. Pilih berkas video (%s)."
+
+#, fuzzy
+#~ msgid "Delete %s file"
+#~ msgstr "Hapus gambar ini"
+
+#, fuzzy
+#~ msgid "There was an error :(."
+#~ msgstr "Ada masalah nih, galat lagi :(."

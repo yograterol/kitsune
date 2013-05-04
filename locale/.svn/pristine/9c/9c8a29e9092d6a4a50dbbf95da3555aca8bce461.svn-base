@@ -1,0 +1,813 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-03 11:18-0700\n"
+"PO-Revision-Date: 2013-02-12 18:05+0200\n"
+"Last-Translator: kenu <kenu@okjsp.pe.kr>\n"
+"Language-Team: Mozilla SUMO Korean Team\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: media/js/aaq.js:49
+msgid "Installing..."
+msgstr "설치중..."
+
+#: media/js/ajaxform.js:16
+msgid "An error occured."
+msgstr "에러가 발생했습니다."
+
+#: media/js/ajaxpreview.js:56
+msgid "There was an error generating the preview."
+msgstr "미리 보기에 오류가 있습니다."
+
+#: media/js/ajaxvote.js:76
+msgid "There was an error submitting your vote."
+msgstr "투표 전송에 오류가 있습니다."
+
+#. L10n: short for "1 month"
+#: media/js/charts.js:159
+msgid "1m"
+msgstr "1개월"
+
+#. L10n: short for "3 months"
+#: media/js/charts.js:164
+msgid "3m"
+msgstr "3개월"
+
+#. L10n: short for "6 months"
+#: media/js/charts.js:169
+msgid "6m"
+msgstr "6개월"
+
+#. L10n: short for "Year To Date"
+#: media/js/charts.js:173
+msgid "YTD"
+msgstr "연간"
+
+#. L10n: short for "1 year"
+#: media/js/charts.js:178
+msgid "1y"
+msgstr "1년"
+
+#: media/js/charts.js:181
+msgid "All"
+msgstr "전체"
+
+#: media/js/charts.js:310
+msgid "January"
+msgstr "1월"
+
+#: media/js/charts.js:311
+msgid "February"
+msgstr "2월"
+
+#: media/js/charts.js:312
+msgid "March"
+msgstr "3월"
+
+#: media/js/charts.js:313
+msgid "April"
+msgstr "4월"
+
+#: media/js/charts.js:314 media/js/charts.js:334
+msgid "May"
+msgstr "5월"
+
+#: media/js/charts.js:315
+msgid "June"
+msgstr "6월"
+
+#: media/js/charts.js:316
+msgid "July"
+msgstr "7월"
+
+#: media/js/charts.js:317
+msgid "August"
+msgstr "8월"
+
+#: media/js/charts.js:318
+msgid "September"
+msgstr "9월"
+
+#: media/js/charts.js:319
+msgid "October"
+msgstr "10월"
+
+#: media/js/charts.js:320
+msgid "November"
+msgstr "11월"
+
+#: media/js/charts.js:321
+msgid "December"
+msgstr "12월"
+
+#: media/js/charts.js:322
+msgid "Sunday"
+msgstr "일요일"
+
+#: media/js/charts.js:323
+msgid "Monday"
+msgstr "월요일"
+
+#: media/js/charts.js:324
+msgid "Tuesday"
+msgstr "화요일"
+
+#: media/js/charts.js:325
+msgid "Wednesday"
+msgstr "수요일"
+
+#: media/js/charts.js:326
+msgid "Thursday"
+msgstr "목요일"
+
+#: media/js/charts.js:327
+msgid "Friday"
+msgstr "금요일"
+
+#: media/js/charts.js:328
+msgid "Saturday"
+msgstr "토요일"
+
+#. L10n: short for the individual months
+#: media/js/charts.js:330
+msgid "Jan"
+msgstr "1월"
+
+#: media/js/charts.js:331
+msgid "Feb"
+msgstr "2월"
+
+#: media/js/charts.js:332
+msgid "Mar"
+msgstr "3월"
+
+#: media/js/charts.js:333
+msgid "Apr"
+msgstr "4월"
+
+#: media/js/charts.js:335
+msgid "Jun"
+msgstr "6월"
+
+#: media/js/charts.js:336
+msgid "Jul"
+msgstr "7월"
+
+#: media/js/charts.js:337
+msgid "Aug"
+msgstr "8월"
+
+#: media/js/charts.js:338
+msgid "Sep"
+msgstr "9월"
+
+#: media/js/charts.js:339
+msgid "Oct"
+msgstr "10월"
+
+#: media/js/charts.js:340
+msgid "Nov"
+msgstr "11월"
+
+#: media/js/charts.js:341
+msgid "Dec"
+msgstr "12월"
+
+#: media/js/charts.js:342 media/js/helpfuldashcharts.js:9 media/js/historycharts.js:8 media/js/markup.js:833
+msgid "Loading..."
+msgstr "읽는 중..."
+
+#: media/js/charts.js:343
+msgid "From"
+msgstr "시작"
+
+#: media/js/charts.js:344
+msgid "To"
+msgstr "종료"
+
+#: media/js/charts.js:345
+msgid "Zoom"
+msgstr "확대"
+
+#: media/js/charts.js:346
+msgid "Reset zoom"
+msgstr "확대 재설정"
+
+#: media/js/charts.js:347
+msgid "Reset zoom level 1:1"
+msgstr "1:1로 크기 재설정"
+
+#: media/js/customercare.js:138
+msgid "You replied"
+msgstr "답글"
+
+#: media/js/customercare.js:140
+msgid "You and 1 other replied"
+msgstr "2명의 답글"
+
+#: media/js/diff.js:203
+msgid "No differences found"
+msgstr "다른 점을 찾을 수 없음"
+
+#: media/js/editable.js:18 media/js/markup.js:322 media/js/markup.js:420 media/js/markup.js:664 media/js/markup.js:852
+msgid "Cancel"
+msgstr "취소"
+
+#: media/js/forums.js:40
+msgid "You are not watching this thread"
+msgstr "현재 글 목록을 주시하지 않음"
+
+#: media/js/forums.js:41
+msgid "You are watching this thread"
+msgstr "현재 글 주시 중"
+
+#: media/js/forums.js:63 media/js/upload.js:122
+msgid "Image Attachment"
+msgstr "그림 첨부"
+
+#: media/js/gallery.js:29
+msgid "Could not upload file. Please try again later."
+msgstr "파일 업로드할 수 없습니다. 다시 시도해 주세요."
+
+#: media/js/gallery.js:32
+msgid "Invalid image. Please select a valid image file."
+msgstr "그림 포맷이 맞지 않습니다. 다시 선택해 주세요."
+
+#: media/js/gallery.js:33
+msgid "Upload cancelled. Please select an image file."
+msgstr "업로드를 취소 합니다. 그림 파일을 선택하세요."
+
+#: media/js/gallery.js:34
+msgid "File deleted. Please select an image file."
+msgstr "파일을 삭제합니다. 그림 파일을 선택하세요."
+
+#: media/js/gallery.js:35
+msgid "Delete this image"
+msgstr "선택한 그림 삭제"
+
+#: media/js/gallery.js:38
+msgid "Invalid video. Please select a valid FLV video."
+msgstr "포맷이 맞지 않습니다. FLV 파일을 선택해 주세요."
+
+#: media/js/gallery.js:39
+msgid "Upload cancelled. Please select an FLV video."
+msgstr "업로드를 취소 합니다. FLV 파일을 선택하세요."
+
+#: media/js/gallery.js:40
+msgid "File deleted. Please select an FLV video."
+msgstr "파일을 삭제합니다. FLV 파일을 선택하세요."
+
+#: media/js/gallery.js:41
+msgid "Delete FLV video"
+msgstr "FLV 파일 삭제"
+
+#: media/js/gallery.js:44
+msgid "Invalid video. Please select a valid OGV video."
+msgstr "포맷이 맞지 않습니다. OGV 파일을 선택해 주세요."
+
+#: media/js/gallery.js:45
+msgid "Upload cancelled. Please select an OGV video."
+msgstr "업로드를 취소 합니다. OGV 파일을 선택하세요."
+
+#: media/js/gallery.js:46
+msgid "File deleted. Please select an OGV video."
+msgstr "파일을 삭제합니다. OGV 파일을 선택하세요."
+
+#: media/js/gallery.js:47
+msgid "Delete OGV video"
+msgstr "OGV 파일 삭제"
+
+#: media/js/gallery.js:50
+msgid "Invalid video. Please select a valid WebM video."
+msgstr "포맷이 맞지 않습니다. WebM 파일을 선택해 주세요."
+
+#: media/js/gallery.js:51
+msgid "Upload cancelled. Please select a WebM video."
+msgstr "업로드를 취소 합니다. WebM 파일을 선택하세요."
+
+#: media/js/gallery.js:52
+msgid "File deleted. Please select a WebM video."
+msgstr "파일을 삭제합니다. WebM 파일을 선택하세요."
+
+#: media/js/gallery.js:53
+msgid "Delete WebM video"
+msgstr "WebM 파일 삭제"
+
+#: media/js/gallery.js:279 media/js/upload.js:55
+msgid "Uploading \"%s\"..."
+msgstr "\"%s\" 업로드 중..."
+
+#: media/js/helpfuldashcharts.js:22
+msgid "Error loading chart. (Are you logged in?)"
+msgstr "차트 읽는 중 오류 (로그인 하셨나요?)"
+
+#: media/js/helpfuldashcharts.js:39
+msgid "Helpfulness Votes over 1 Month"
+msgstr "1개월간 투표수"
+
+#: media/js/helpfuldashcharts.js:46
+msgid "Current Percent of Helpfulness"
+msgstr "현재 도움 문서 퍼센트"
+
+#: media/js/helpfuldashcharts.js:51
+msgid "Percent Change in Helpfulness"
+msgstr "도움 문서 퍼센트 변화"
+
+#: media/js/helpfuldashcharts.js:93
+msgid "Documents"
+msgstr "문서"
+
+#: media/js/helpfuldashcharts.js:144 media/js/helpfuldashcharts.js:153 media/js/helpfuldashcharts.js:162
+msgid "%s Votes"
+msgstr "%s 투표"
+
+#: media/js/historycharts.js:23
+msgid "No votes data"
+msgstr "투표 자료 없음"
+
+#: media/js/historycharts.js:28
+#, fuzzy
+msgid "Error loading graph"
+msgstr "차트 읽는 중 오류"
+
+#: media/js/historycharts.js:38
+msgid "Votes"
+msgstr "투표"
+
+#: media/js/historycharts.js:39 media/js/historycharts.js:55
+msgid "Percent"
+msgstr "퍼센트"
+
+#: media/js/historycharts.js:43
+msgid "Yes"
+msgstr "예"
+
+#: media/js/historycharts.js:49
+msgid "No"
+msgstr "아니오"
+
+#: media/js/kpi.dashboard.js:12 media/js/wiki.dashboard.js:14
+msgid "Article Votes: % Helpful"
+msgstr "문서 투표수: % (도움됨)"
+
+#: media/js/kpi.dashboard.js:17
+msgid "Answer Votes: % Helpful"
+msgstr "답변 투표수: % (도움됨)"
+
+#: media/js/kpi.dashboard.js:25
+msgid "en-US KB"
+msgstr "영문 지식 기반"
+
+#: media/js/kpi.dashboard.js:30
+msgid "non en-US KB"
+msgstr "비영어 지식 기반"
+
+#: media/js/kpi.dashboard.js:35
+msgid "Support Forum"
+msgstr "지원 포럼"
+
+#: media/js/kpi.dashboard.js:40
+msgid "Army of Awesome"
+msgstr "Army of Awesome"
+
+#: media/js/kpi.dashboard.js:48
+msgid "CTR %"
+msgstr "CTR %"
+
+#: media/js/kpi.dashboard.js:56
+msgid "Visitors"
+msgstr "방문자수"
+
+#: media/js/kpi.dashboard.js:64
+msgid "L10n Coverage"
+msgstr "L10n 범위"
+
+#: media/js/kpi.dashboard.js:124 media/js/kpi.dashboard.js:127
+msgid "Questions"
+msgstr "질문 목록"
+
+#: media/js/kpi.dashboard.js:138
+msgid "Solved"
+msgstr "해결 완료"
+
+#: media/js/kpi.dashboard.js:146
+#, fuzzy
+msgid "Responded in 24 hours"
+msgstr "72시간내 응답된 질문"
+
+#: media/js/kpi.dashboard.js:154
+msgid "Responded in 72 hours"
+msgstr "72시간내 응답된 질문"
+
+#: media/js/markup.js:38 media/js/markup.js:81
+msgid "Bold"
+msgstr "굵게"
+
+#: media/js/markup.js:38 media/js/markup.js:81
+msgid "bold text"
+msgstr "굵은 문자"
+
+#: media/js/markup.js:40 media/js/markup.js:83
+msgid "Italic"
+msgstr "이탤릭"
+
+#: media/js/markup.js:40 media/js/markup.js:83
+msgid "italic text"
+msgstr "이탤릭체"
+
+#: media/js/markup.js:45 media/js/markup.js:89
+msgid "Numbered List"
+msgstr "번호 목록"
+
+#: media/js/markup.js:46 media/js/markup.js:90
+msgid "Numbered list item"
+msgstr "번호로된 목록 항목"
+
+#: media/js/markup.js:47 media/js/markup.js:91
+msgid "Bulleted List"
+msgstr "기호 목록"
+
+#: media/js/markup.js:48 media/js/markup.js:92
+msgid "Bulleted list item"
+msgstr "기호로된 목록 항목"
+
+#: media/js/markup.js:94
+msgid "Heading 1"
+msgstr "제목1"
+
+#: media/js/markup.js:96
+msgid "Heading 2"
+msgstr "제목2"
+
+#: media/js/markup.js:98
+msgid "Heading 3"
+msgstr "제목3"
+
+#: media/js/markup.js:275
+msgid "Show for..."
+msgstr "보이기..."
+
+#: media/js/markup.js:281
+msgid "Show content only for specific versions of Firefox or operating systems."
+msgstr "Firefox나 운영 체제 특정 버전에서만 보이기."
+
+#: media/js/markup.js:313
+msgid "Add Rule"
+msgstr "규칙 추가"
+
+#: media/js/markup.js:374
+msgid "Insert a link..."
+msgstr "링크 추가..."
+
+#: media/js/markup.js:378
+msgid "link text"
+msgstr "링크 텍스트"
+
+#: media/js/markup.js:408
+msgid "Link text:"
+msgstr "링크 텍스트:"
+
+#: media/js/markup.js:410
+msgid "Link target:"
+msgstr "링크 대상:"
+
+#: media/js/markup.js:412
+msgid "Support article:"
+msgstr "도움말 문서:"
+
+#: media/js/markup.js:414
+msgid "Enter the name of the article"
+msgstr "문서 이름 입력하기"
+
+#: media/js/markup.js:416
+msgid "External link:"
+msgstr "외부 링크:"
+
+#: media/js/markup.js:418
+msgid "Enter the URL of the external link"
+msgstr "외부 링크의 URL 입력"
+
+#: media/js/markup.js:490
+msgid "No sections found"
+msgstr "선택 사항 없음"
+
+#: media/js/markup.js:535
+msgid "Insert Link"
+msgstr "링크 추가"
+
+#: media/js/markup.js:570
+msgid "Knowledge Base Article"
+msgstr "지식 기반 문서"
+
+#: media/js/markup.js:617
+msgid "Insert media..."
+msgstr "미디어 추가..."
+
+#: media/js/markup.js:621
+msgid "media"
+msgstr "미디어"
+
+#: media/js/markup.js:652 media/js/markup.js:653 media/js/markup.js:654
+msgid "Search Gallery"
+msgstr "목록 검색"
+
+#: media/js/markup.js:656
+msgid "Show:"
+msgstr "보이기:"
+
+#: media/js/markup.js:657
+msgid "Images"
+msgstr "그림"
+
+#: media/js/markup.js:658
+msgid "Videos"
+msgstr "동영상"
+
+#: media/js/markup.js:659
+#, fuzzy
+msgid "Show media for:"
+msgstr "보이기..."
+
+#: media/js/markup.js:661
+msgid "Insert Media"
+msgstr "미디어 추가"
+
+#: media/js/markup.js:663
+msgid "Upload Media"
+msgstr "미디어 업로드"
+
+#: media/js/markup.js:727
+msgid "Please select an image or video to insert."
+msgstr "추가할 그림이나 동영상을 선택하세요."
+
+#: media/js/markup.js:762
+msgid "Oops, there was an error."
+msgstr "오류가 있습니다!"
+
+#: media/js/markup.js:791
+msgid "Insert a canned response..."
+msgstr "답변 추가..."
+
+#: media/js/markup.js:795
+msgid "cannedresponses"
+msgstr "답변"
+
+#: media/js/markup.js:827
+msgid "Search for common responses"
+msgstr "일반 답변 검색"
+
+#: media/js/markup.js:831
+msgid "Categories"
+msgstr "분류"
+
+#: media/js/markup.js:836 media/js/markup.js:960
+msgid "Responses"
+msgstr "응답"
+
+#: media/js/markup.js:837
+msgid "Please select a category from the previous column or start a search."
+msgstr "이전 컬럼의 분류를 선택하거나 바로 검색 하세요."
+
+#: media/js/markup.js:841 media/js/markup.js:1092
+msgid "Response editor"
+msgstr "응답 편집"
+
+#: media/js/markup.js:842 media/js/markup.js:1093
+msgid "Switch to preview mode"
+msgstr "미리보기 모드"
+
+#: media/js/markup.js:851
+msgid "Insert Response"
+msgstr "응답 추가"
+
+#: media/js/markup.js:971
+msgid "Matching responses"
+msgstr "검색된 답변"
+
+#: media/js/markup.js:1048
+msgid "There was an error checking for canned responses."
+msgstr "응답을 확인하는데 오류가 있습니다."
+
+#: media/js/markup.js:1085
+msgid "Response preview"
+msgstr "응답 미리보기"
+
+#: media/js/markup.js:1086
+msgid "Switch to edit mode"
+msgstr "편집 모드"
+
+#: media/js/markup.js:1144
+msgid "Quote previous message..."
+msgstr "이전 메시지 인용..."
+
+#: media/js/markup.js:1149
+msgid " said"
+msgstr "언급"
+
+#: media/js/messages.js:15
+msgid "Reply..."
+msgstr "답변..."
+
+#: media/js/questions.js:198 media/js/wiki.js:382
+msgid "There was an error."
+msgstr "오류가 있습니다."
+
+#: media/js/reportabuse.js:37
+msgid "There was an error. Please try again in a moment."
+msgstr "오류가 발생했습니다. 잠시 후에 다시 하십시오."
+
+#: media/js/rickshaw_utils.js:170
+msgid "Daily"
+msgstr "일간"
+
+#: media/js/rickshaw_utils.js:171
+msgid "Weekly"
+msgstr "주간"
+
+#: media/js/rickshaw_utils.js:172
+msgid "Monthly"
+msgstr "월간"
+
+#: media/js/rickshaw_utils.js:199
+msgid "Week beginning %(year)s-%(month)s-%(date)s"
+msgstr ""
+
+#: media/js/rickshaw_utils.js:200
+msgid "Month beginning %(year)s-%(month)s-%(date)s"
+msgstr ""
+
+#: media/js/showfor.js:83
+msgid "[missing header]"
+msgstr "[헤더 없음]"
+
+#: media/js/showfor.js:121
+msgid "Table of Contents"
+msgstr "목차"
+
+#: media/js/tags.filter.js:57
+msgid "Invalid tag entered: %s"
+msgstr "유효하지 않은 태그: %s"
+
+#: media/js/tags.filter.js:65
+msgid "No tags entered."
+msgstr "태그가 없습니다."
+
+#: media/js/upload.js:4
+msgid "Error uploading image"
+msgstr "그림 업로드 오류"
+
+#: media/js/upload.js:5
+msgid "Error deleting image"
+msgstr "그림 삭제 오류"
+
+#: media/js/upload.js:6
+msgid "Please check you are logged in, and try again."
+msgstr "로그인 하신 후 다시 시도해 주시기 바랍니다."
+
+#: media/js/users.autocomplete.js:32
+msgid "Search for a user..."
+msgstr "사용자 검색..."
+
+#: media/js/users.js:21
+msgid "WARNING! Are you sure you want to deactivate this user? This cannot be undone!"
+msgstr ""
+
+#: media/js/wiki.js:266
+msgid "A document with this title already exists in this locale."
+msgstr "문서의 제목이 이미 존재합니다."
+
+#: media/js/wiki.js:271
+msgid "A document with this slug already exists in this locale."
+msgstr "문서의 줄임 제목이 이미 존재합니다."
+
+#: media/js/wiki.js:376
+msgid "Choose revisions to compare"
+msgstr "비교 버전 선택"
+
+#: media/js/wiki.js:522
+msgid "Toggle syntax highlighting"
+msgstr "문법 강조"
+
+#: media/js/wiki.js:594
+msgid "Toggle Diff"
+msgstr "토글"
+
+#~ msgid "We're open!"
+#~ msgstr "항상 열려있습니다!"
+
+#~ msgid "Our volunteers are ready to help."
+#~ msgstr "여러분을 도와 드립니다."
+
+#~ msgid "Helpers online: "
+#~ msgstr "온라인 도우미:"
+
+#~ msgid "Users waiting: "
+#~ msgstr "대기 중인 사용자:"
+
+#~ msgid "Estimated wait: "
+#~ msgstr "대기 시간:"
+
+#~ msgid "Start your Live Chat session."
+#~ msgstr "실시간 대화 하기"
+
+#~ msgid "The queue is full."
+#~ msgstr "대기열이 가득 찼습니다."
+
+#~ msgid "Our volunteers are busy helping other users."
+#~ msgstr "현재 모든 도우미가 다른 사용자를 돕고 있는 중입니다."
+
+#~ msgid "We're closed."
+#~ msgstr "잠시 기능이 닫혀있습니다."
+
+#~ msgid "Live Chat is currently closed."
+#~ msgstr "실시간 대화는 잠시 닫혀있습니다."
+
+#~ msgid "There was an error checking the queue."
+#~ msgstr "대기 상황을 확인하는데 오류가 있습니다."
+
+#~ msgid "You can try starting a chat session."
+#~ msgstr "채팅 시작"
+
+#~ msgid "Less than 2 minutes."
+#~ msgstr "2분 이내"
+
+#~ msgid "More than 20 minutes."
+#~ msgstr "20분 이상"
+
+#~ msgid "Helpful Votes"
+#~ msgstr "도움되는 투표"
+
+#~ msgid "Active Contributors"
+#~ msgstr "활동적인 공헌자 "
+
+#~ msgid "Search Clickthrough Rate"
+#~ msgstr "클릭율 검색"
+
+#~ msgid "Daily Unique Visitors"
+#~ msgstr "일간 방문자수"
+
+#~ msgid "Query took: "
+#~ msgstr "질의 가져오기:"
+
+#~ msgid " seconds"
+#~ msgstr " 초"
+
+#~ msgid "Helpfulness Votes"
+#~ msgstr "도움되는 투표"
+
+#~ msgid "Number of Votes"
+#~ msgstr "투표수"
+
+#~ msgid "%s%"
+#~ msgstr "%s%"
+
+#~ msgid "Report this post"
+#~ msgstr "현재 문서 보고"
+
+#~ msgid "Toggle L10n"
+#~ msgstr "한국어 편집창"
+
+#~ msgid "Search: "
+#~ msgstr "검색:"
+
+#~ msgid "Type here to filter the list of shown responses"
+#~ msgstr "답변을 보여줄 목록 필터를 입력"
+
+#~ msgid "Active Support Forum Contributors"
+#~ msgstr "활동적인 지원 포럼 공헌자"
+
+#~ msgid "Contributors"
+#~ msgstr "공헌자"
+
+#~ msgid "Report this Article"
+#~ msgstr "현재 문서 보고"
+
+#~ msgid "Article Link"
+#~ msgstr "문서 링크"
+
+#~ msgid "External Link"
+#~ msgstr "외부 링크"
+
+#~ msgid "external link"
+#~ msgstr "외부 링크"
+
+#, fuzzy
+#~ msgid "Invalid video. Please select a valid video file (%s)."
+#~ msgstr "동영상 파일(%s) 포맷이 맞지 않습니다. 다시 선택해 주세요."
+
+#~ msgid "Upload cancelled. Please select a video file (%s)."
+#~ msgstr "업로드를 취소합니다. 동영상 파일 (%s)를 다시 선택하세요."
+
+#, fuzzy
+#~ msgid "Delete %s file"
+#~ msgstr "선택한 그림 삭제"
+
+#, fuzzy
+#~ msgid "There was an error :(."
+#~ msgstr "오류가 있습니다."
