@@ -1,76 +1,472 @@
-.fonts(@fontpath:'../fonts') {
-  @font-face {
-    font-family: 'MetaBold';
-    src: url('@{fontpath}/MetaWebPro-Bold.eot'); /* IE9 Compat Modes */
-    src: url('@{fontpath}/MetaWebPro-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('@{fontpath}/MetaWebPro-Bold.woff') format('woff'), /* Modern Browsers */
-    url('@{fontpath}/MetaWebPro-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
-    url('@{fontpath}/MetaWebPro-Bold.svg#svgFontName') format('svg'); /* Legacy iOS */
-  }
+/* Colors */
+/* Fonts */
+/*---------------------------------------------------
+    LESS Prefixer
+  ---------------------------------------------------
 
-  @font-face {
-    font-family: 'MetaMedium';
-    src: url('@{fontpath}/MetaWebPro-Medium.eot'); /* IE9 Compat Modes */
-    src: url('@{fontpath}/MetaWebPro-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('@{fontpath}/MetaWebPro-Medium.woff') format('woff'), /* Modern Browsers */
-    url('@{fontpath}/MetaWebPro-Medium.ttf')  format('truetype'), /* Safari, Android, iOS */
-    url('@{fontpath}/MetaWebPro-Medium.svg#svgFontName') format('svg'); /* Legacy iOS */
-  }
+    All of the CSS3 fun, none of the prefixes!
 
-  @font-face {
-    font-family: 'Moz';
-    src: url('@{fontpath}/Moz-Regular-webfont.eot'); /* IE9 Compat Modes */
-    src: url('@{fontpath}/Moz-Regular-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('@{fontpath}/Moz-Regular-webfont.woff') format('woff'), /* Modern Browsers */
-    url('@{fontpath}/Moz-Regular-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
-    url('@{fontpath}/Moz-Regular-webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
-  }
+    As a rule, you can use the CSS properties you
+    would expect just by adding a '.':
 
-  @font-face {
-    font-family: 'Moz';
-    font-weight: bold;
-    src: url('@{fontpath}/Moz-Medium-webfont.eot'); /* IE9 Compat Modes */
-    src: url('@{fontpath}/Moz-Medium-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('@{fontpath}/Moz-Medium-webfont.woff') format('woff'), /* Modern Browsers */
-    url('@{fontpath}/Moz-Medium-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
-    url('@{fontpath}/Moz-Medium-webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
-  }
+    box-shadow => .box-shadow(@args)
+
+    Also, when shorthand is available, arguments are
+    not parameterized. Learn CSS, not LESS Prefixer.
+
+    -------------------------------------------------
+    TABLE OF CONTENTS
+    (*) denotes a syntax-sugar helper
+    -------------------------------------------------
+
+        .animation(@args)
+            .animation-delay(@delay)
+            .animation-direction(@direction)
+            .animation-duration(@duration)
+            .animation-iteration-count(@count)
+            .animation-name(@name)
+            .animation-play-state(@state)
+            .animation-timing-function(@function)
+        .background-size(@args)
+        .border-radius(@args)
+        .box-shadow(@args)
+            .inner-shadow(@args) *
+        .box-sizing(@args)
+            .border-box() *
+            .content-box() *
+        .columns(@args)
+            .column-count(@count)
+            .column-gap(@gap)
+            .column-rule(@args)
+            .column-width(@width)
+        .gradient(@default,@start,@stop) *
+            .linear-gradient-top(@default,@color1,@stop1,@color2,@stop2,[@color3,@stop3,@color4,@stop4])*
+            .linear-gradient-left(@default,@color1,@stop1,@color2,@stop2,[@color3,@stop3,@color4,@stop4])*
+        .hyphens(@args)
+        .opacity(@factor)
+        .transform(@args)
+            .rotate(@deg)
+            .scale(@factor)
+            .translate(@x,@y)
+            .translate3d(@x,@y,@z)
+            .translateHardware(@x,@y) *
+        .text-shadow(@args)
+        .transition(@args)
+            .transition-delay(@delay)
+            .transition-duration(@duration)
+            .transition-property(@property)
+            .transition-timing-function(@function)
+
+
+
+    Credit to LESS Elements for the motivation and
+    to CSS3Please.com for implementation.
+
+    Copyright (c) 2012 Joel Sutherland
+    MIT Licensed:
+    http://www.opensource.org/licenses/mit-license.php
+
+-----------------------------------------------------*/
+/* Animation */
+/* Background Size */
+/* Border Radius */
+/* Box Shadows */
+/* Box Sizing */
+/* Columns */
+/* Gradients */
+/* Opacity */
+/* Text Shadow */
+/* Transforms */
+/* Transitions */
+/* Typography stuff */
+#infinite-scroll {
+  text-align: center;
 }
-
-@font-face {
-  font-family: 'Open Sans';
-  src: url('//mozorg.cdn.mozilla.net/media/fonts/OpenSans-Regular-webfont.eot'); /* IE9 Compat Modes */
-  src: url('//mozorg.cdn.mozilla.net/media/fonts/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url('//mozorg.cdn.mozilla.net/media/fonts/OpenSans-Regular-webfont.woff') format('woff'), /* Modern Browsers */
-  url('//mozorg.cdn.mozilla.net/media/fonts/OpenSans-Regular-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
-  url('//mozorg.cdn.mozilla.net/media/fonts/OpenSans-Regular-webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+#refresh-busy {
+  display: none;
 }
-
-@font-face {
-  font-family: 'Open Sans';
-  font-weight: 600;
-  src: url('//mozorg.cdn.mozilla.net/media/fonts/OpenSans-Semibold-webfont.eot'); /* IE9 Compat Modes */
-  src: url('//mozorg.cdn.mozilla.net/media/fonts/OpenSans-Semibold-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url('//mozorg.cdn.mozilla.net/media/fonts/OpenSans-Semibold-webfont.woff') format('woff'), /* Modern Browsers */
-  url('//mozorg.cdn.mozilla.net/media/fonts/OpenSans-Semibold-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
-  url('//mozorg.cdn.mozilla.net/media/fonts/OpenSans-Semibold-webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+#stats {
+  margin-top: 30px;
 }
-
-@font-face {
-  font-family: 'Open Sans';
+#stats > p,
+#stats > span {
+  color: #888888;
+  font-size: 13px;
+  margin: 5px 10px;
+}
+#stats > p > strong,
+#stats > span > strong {
+  color: #484848;
+}
+#stats > span {
+  float: right;
+}
+#steps .btn {
+  margin-top: 8px;
+}
+#steps ol {
+  list-style: none;
+  margin: 82px 0 0 0;
+  padding: 0;
+}
+#steps ol li {
+  counter-increment: item;
+  float: left;
+  font-family: 'Open Sans Light', Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  padding: 40px 0 0 0;
+  position: relative;
+}
+#steps ol li:before {
+  background: #fff;
+  -webkit-border-radius: 13px;
+  -moz-border-radius: 13px;
+  border-radius: 13px;
+  -webkit-background-clip: padding-box;
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+  content: counter(item);
+  height: 26px;
+  left: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 26px;
+}
+#tweet-tools {
+  float: right;
+  margin: 20px 0;
+}
+#tweets {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#tweets .replies {
+  margin: 20px 40px 40px 40px;
+}
+#tweets .tweet {
+  background: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+#tweets .tweet .avatar {
+  float: left;
+}
+#tweets .tweet .tweet-contents {
+  font-size: 13px;
+  margin-left: 58px;
+}
+#tweets .tweet .tweet-contents p {
+  margin: 6px 0 10px 0;
+}
+#tweets .tweet .tweet-contents .reply-button {
+  background: url('../img/icons-sprite.png') -49px -1789px no-repeat;
+  color: #0095dd;
+  cursor: pointer;
+  float: left;
+  padding-left: 24px;
+  margin-right: 10px;
+}
+#tweets .tweet .tweet-contents .reply-button:hover {
+  color: #00539f;
+  text-decoration: underline;
+}
+#tweets .tweet .tweet-contents .reply-count {
+  color: #81bc2e;
+  cursor: pointer;
+  float: left;
+}
+#tweets .tweet .tweet-contents .remove-tweet {
+  float: right;
+}
+#tweets .tweet .tweet-contents .tweet-time,
+#tweets .tweet .tweet-contents .tweet-time:visited,
+#tweets .tweet .tweet-contents .tweet-time:hover {
+  color: #888888;
+  float: right;
+}
+#tweets .tweet .tweet-contents .user-meta,
+#tweets .tweet .tweet-contents .user-meta:visited,
+#tweets .tweet .tweet-contents .user-meta:hover {
+  color: #484848;
+  font-family: 'Open Sans Light', Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+#top-aoa-contributors {
+  background: white;
+  padding: 10px 15px;
+}
+#top-aoa-contributors h2 {
+  margin: 0 0 5px 0;
+}
+#top-aoa-contributors .aoa-contributor {
+  margin-bottom: 15px;
+  position: relative;
+}
+#top-aoa-contributors .aoa-contributor .avatar {
+  float: left;
+  position: relative;
+  top: 8px;
+  width: 48px;
+  height: 48px;
+  background: #fff;
+  margin-right: 8px;
+  -webkit-box-shadow: 0px 0px 2px 1px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0px 0px 2px 1px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 0px 2px 1px rgba(0, 0, 0, 0.2);
+}
+#top-aoa-contributors .aoa-contributor .user-meta {
+  display: block;
+  padding-left: 60px;
+}
+#top-aoa-contributors .aoa-contributor .user-meta .twittername {
+  color: #484848;
+  font-family: 'Open Sans Light', Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  display: block;
+}
+#top-aoa-contributors .aoa-contributor .stat {
+  display: inline-block;
+  margin: 3px;
   font-weight: bold;
-  src: url('//mozorg.cdn.mozilla.net/media/fonts/OpenSans-Bold-webfont.eot'); /* IE9 Compat Modes */
-  src: url('//mozorg.cdn.mozilla.net/media/fonts/OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url('//mozorg.cdn.mozilla.net/media/fonts/OpenSans-Bold-webfont.woff') format('woff'), /* Modern Browsers */
-  url('//mozorg.cdn.mozilla.net/media/fonts/OpenSans-Bold-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
-  url('//mozorg.cdn.mozilla.net/media/fonts/OpenSans-Bold-webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+  color: #333;
 }
+#top-aoa-contributors .aoa-contributor .stat .count {
+  font-size: 1.1en;
+  display: block;
+  margin-top: -4px;
+}
+#top-aoa-contributors .aoa-contributor .stat .timeperiod {
+  font-size: 0.7em;
+  text-transform: uppercase;
+  display: block;
+  margin-top: -3px;
+}
+/*
+*   Modal Styles
+*   TODO: Restyle the modals
+*/
+#twitter-logout {
+  display: inline;
+}
+#twitter-modal {
+  text-align: left;
+}
+#twitter-modal h4 {
+  font-size: 135%;
+  margin-bottom: 5px;
+}
+#twitter-modal p {
+  margin: 0 0 10px 0;
+}
+.btn.register {
+  margin: 0 0 0 14px;
+}
+.btn.signin-twitter {
+  float: none;
+  width: 300px;
+}
+#reply-container {
+  background-color: #fff;
+  font-family: Verdana, sans-serif;
+  margin: 0 auto;
+  text-align: left;
+  top: 86px;
+}
+#reply-container,
+#reply-container #replies {
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+}
+#initial-tweet img {
+  border: 1px solid #bbb;
+  float: left;
+}
+#initial-tweet .box {
+  background: #fff;
+  border: 1px solid #aaa;
+  color: #69645b;
+  display: block;
+  font-size: 80%;
+  margin-left: 70px;
+  padding: 6px 9px 10px 9px;
+  text-align: left;
+}
+#initial-tweet a.twittername {
+  color: #2276bb;
+  font-weight: bold;
+  text-decoration: none;
+}
+#initial-tweet a.avatar {
+  display: inline;
+}
+#initial-tweet .text {
+  padding-top: 4px;
+}
+#initial-tweet #arrow {
+  border: 0;
+  left: 75px;
+  position: absolute;
+  top: 60px;
+}
+#reply-container h4 {
+  color: #4b4740;
+  font-family: Verdana, sans-serif;
+  font-size: 125%;
+  font-weight: normal;
+  margin-bottom: 15px;
+}
+#reply-container #replies {
+  background: #8fc1da;
+  background: -moz-linear-gradient(center top, #8fc1da, #e5f1f7) repeat;
+  background: -webkit-gradient(linear, center top, center bottom, from(#8fc1da), to(#e5f1f7));
+  margin-top: 20px;
+  padding: 15px 20px;
+}
+#reply-container h3.ui-accordion-header {
+  background: #f0f0f0 url('../img/customercare/expander-closed.png') 8px 50% no-repeat;
+  border: 1px solid #b2b2b2;
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  font-family: Verdana, sans-serif;
+  font-size: 12px;
+  margin: 0 0 9px 0;
+  padding: 4px 0 5px 24px;
+}
+#reply-container h3.ui-accordion-header a {
+  color: #69645b;
+  display: block;
+}
+#reply-container h3.ui-accordion-header a:hover {
+  text-decoration: none;
+}
+#reply-container #replies ul {
+  list-style-type: none;
+  margin: 0 0 10px 24px;
+}
+#reply-container #replies li a {
+  color: #0489b7;
+  display: block;
+  padding-bottom: 2px;
+}
+#reply-container #no-responses a {
+  color: #447BC4;
+}
+#reply-container h3.ui-accordion-header.ui-state-default {
+  background: #f0f0f0 url('../img/customercare/expander-closed.png') 8px 50% no-repeat;
+}
+#reply-container h3.ui-accordion-header.ui-state-active {
+  background: #f0f0f0 url('../img/customercare/expander-open.png') 8px 50% no-repeat;
+}
+#reply-container h3.ui-accordion-header.ui-state-default a {
+  color: #69645b;
+  font-weight: normal;
+}
+#reply-container h3.ui-accordion-header.ui-state-active a {
+  color: #69645b;
+  font-weight: bold;
+}
+#accordion .ui-widget-content {
+  background: none;
+  border: none;
+}
+.topics .snippet {
+  display: none;
+}
+#reply {
+  padding-bottom: 34px;
+}
+#reply .desc {
+  color: #69645B;
+  font-size: 85%;
+  margin-bottom: 10px;
+  width: 340px;
+}
+#reply-message {
+  background: #fff;
+  border: 1px solid #aaa;
+  height: 65px;
+  font-size: .9em;
+  padding: 10px 15px;
+  width: 325px;
+}
+#reply #reply-arrow {
+  display: inline;
+  left: 30px;
+  position: relative;
+  top: 5px;
+}
+#error-message,
+#submit-message {
+  color: #4b4740;
+  display: none;
+  float: left;
+  font-weight: bold;
+  height: 21px;
+  margin-top: 14px;
+}
+#submit-message {
+  background: url('../img/customercare/reply-check.png') right top no-repeat;
+  padding-right: 23px;
+  padding-top: 3px;
+}
+#error-message {
+  background: url('../img/customercare/notification-error.png') right 4px no-repeat;
+  padding-right: 20px;
+}
+#reply .container {
+  position: relative;
+  top: -12px;
+}
+#reply .submitButton {
+  background: -moz-linear-gradient(center top, #eed052 15px, #ebb04f 18px, #e79f30, #e0752b);
+  /* color-stop percentages according to height */
 
-@font-face {
-  font-family: 'Open Sans Light';
-  src: url('//mozorg.cdn.mozilla.net/media/fonts/OpenSans-Light-webfont.eot'); /* IE9 Compat Modes */
-  src: url('//mozorg.cdn.mozilla.net/media/fonts/OpenSans-Light-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url('//mozorg.cdn.mozilla.net/media/fonts/OpenSans-Light-webfont.woff') format('woff'), /* Modern Browsers */
-  url('//mozorg.cdn.mozilla.net/media/fonts/OpenSans-Light-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
-  url('//mozorg.cdn.mozilla.net/media/fonts/OpenSans-Light-webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+  background: -webkit-gradient(linear, center top, center bottom, color-stop(0.417, #eed052), color-stop(0.5, #ebb04f), color-stop(0.75, #e79f30), to(#e0752b));
+  border-left: 1px solid #d4661a;
+  border-right: 1px solid #d4661a;
+  border-top: 1px solid #d19f7c;
+  border-bottom: 1px solid #ba5c1c;
+  border-radius: 6px;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  box-shadow: 0 0 5px #777;
+  -moz-box-shadow: 0 0 5px #777;
+  color: #b01a04;
+  cursor: pointer;
+  float: right;
+  height: 36px;
+  line-height: 36px;
+  margin-top: 10px;
+  text-align: center;
+  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.6);
+  width: 140px;
+}
+#submit-busy {
+  display: none;
+  height: 13px;
+  padding-left: 5px;
+  width: 13px;
+}
+#reply .submitButton.busy {
+  background: -moz-linear-gradient(center top, #cccccc 15px, #cccccc 18px, #aaaaaa, #aaaaaa);
+  background: -webkit-gradient(linear, center top, center bottom, color-stop(0.417, #cccccc), color-stop(0.5, #cccccc), color-stop(0.75, #aaaaaa), to(#aaaaaa));
+  border-color: #aaa;
+  color: #666;
+}
+#reply .submitButton.busy #submit-busy {
+  display: inline;
+}
+#reply .character-counter {
+  color: #fff;
+  float: right;
+  font-weight: bold;
+  font-size: 24px;
+  position: relative;
+  top: 33px;
+  width: 50px;
 }
